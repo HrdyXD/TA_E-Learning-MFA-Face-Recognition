@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="630" modulename="assign" contextid="781">
+  <assign id="6">
+    <name>Assignment 2: Synchronous Lesson Design (Team) 30%</name>
+    <intro>&lt;h3&gt;Assignment 2: Synchronous Lesson Design (Team) 30%&lt;/h3&gt;
+&lt;p&gt;Assignment 2 involves designing and delivering a synchronous lesson to the class and responding to feedback:&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Step 1: You will collaborate in a team of three (of your choosing) to co-facilitate a 15-minute synchronous lesson, including three strategies for engaging participants in the learning process.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Step 2: After the team presentation, each member of the class will use a rubric (determined by the class in advance and mapped against the learning outcomes for the assignment) to provide feedback to the team. Submitted three days after each team presentation (see Assignment 3 for further details).&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Step 3: After receiving class feedback, your team will be required to submit a short but substantive brief (500-750 words) that addresses this rubric-based feedback and indicates the key lessons you learned in both planning and facilitating synchronous learning activities.&lt;/p&gt;
+&lt;p&gt;The assessment of Assignment 2 will include both the presentation itself and the substantive brief prepared by the team in response to the rubric-based feedback from the class members.&lt;/p&gt;
+&lt;p&gt;Your instructor will provide a summary discussion post after all of the presentations are complete, noting the highlights of the presentations.&lt;/p&gt;
+&lt;p&gt;An sign-up sheet for presentation time-slots will be posted at the start of Unit 4.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>1</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>0</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>100</grade>
+    <timemodified>1417537680</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="44">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="45">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="46">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="47">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>20971520</value>
+      </plugin_config>
+      <plugin_config id="48">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="49">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="51">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="52">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

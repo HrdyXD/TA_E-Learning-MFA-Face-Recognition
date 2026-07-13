@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="667" moduleid="7340" modulename="hvp" contextid="25499">
+  <hvp id="667">
+    <name>🚌 3. Street</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank" title="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme"&gt;Erasmus+ Program Priorities (inclusion and diversity, Participation in democratic life, common values and civic engagement)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":true,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Check","submitAnswer":"Submit","tryAgain":"Retry","showSolution":"Show solution","up":"Up","down":"Down","disabled":"Disabled"},"a11y":{"check":"Check the answers. The responses will be marked as correct or incorrect.","showSolution":"Show the solution. The correct solution will be displayed.","retry":"Retry the task. Reset all elements and start the task over again.","yourResult":"You got @score out of @total points","listDescription":"Sortable list of paragraphs.","listDescriptionCheckAnswer":"List of paragraphs with results.","listDescriptionShowSolution":"List of paragraphs with solutions.","paragraph":"Paragraph","correct":"correct","wrong":"wrong","point":"@score point","sevenOfNine":"@current of @total","currentPosition":"Current position in list","instructionsSelected":"Press spacebar to reorder","instructionsGrabbed":"Press up and down arrow keys to change position, spacebar to drop, escape to cancel","grabbed":"Grabbed","moved":"Moved","dropped":"Dropped","reorderCancelled":"Reorder cancelled","finalPosition":"Final position","nextParagraph":"Next paragraph","correctParagraph":"Correct paragraph at position"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Can you travel in a way that is \u2018street smart\u2019?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;If you were travelling alone in a foreign city and you were not sure which areas were safe, what would you do?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;I would talk to local people about safety before exploring the city. I would try to blend my clothing and body language to avoid attracting attention and hire a guide if necessary.&lt;\/p&gt;\n","&lt;p&gt;I would check with my guide possible areas to avoid and stay away from them. Should I got lost, I would approach local shopkeepers for directions.&lt;\/p&gt;\n","&lt;p&gt;I would go wherever I wanted, but I would make sure that someone always knew my location and had an idea of my surroundings.&lt;\/p&gt;\n","&lt;p&gt;I would probably just go where I wanted to go, regardless of the time of day. Worrying about safety would ruin my trip.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>curiosidad-sobre-temas-internacionales</slug>
+    <timecreated>1685618757</timecreated>
+    <timemodified>1689233647</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

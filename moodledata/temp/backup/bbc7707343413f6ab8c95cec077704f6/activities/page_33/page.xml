@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="33" modulename="page" contextid="70">
+  <page id="4">
+    <name>Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;In this course, you will learn how to critically evaluate the technologies involved in synchronous learning. Then, using practical, hands-on activities, you will apply the key principles of effective design and facilitation to an actual course design of your choice. These applications will help you understand how the underlying theoretical and conceptual aspects of appropriate pedagogies relate to the design and delivery of synchronous learning activities. Thus, as you design your synchronous learning activities, you will learn how to integrate active and engaging learning strategies into your instruction. As well, you will enhance your skills in applying effective lesson planning strategies, appropriate instructional design and pedagogical models, feedback strategies, community building opportunities, synchronous course management skills and exploratory discussions to enhance student engagement in learning. Furthermore, you will examine the role of technology as an enabling strategy throughout the course, including the pros and cons of different software tools and applications, cost-containment strategies and implications of read/write/publish web developments.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1413831446</timemodified>
+  </page>
+</activity>

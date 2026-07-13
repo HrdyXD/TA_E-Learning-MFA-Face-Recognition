@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="45" modulename="label" contextid="82">
+  <label id="11">
+    <name>Label</name>
+    <intro>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/tools_small.png" alt="sync tools" height="268" width="400" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1392602139</timemodified>
+  </label>
+</activity>

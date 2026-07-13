@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="71" modulename="wiki" contextid="109">
+  <wiki id="1">
+    <name>Wiki: Mission to Mars - compiled list</name>
+    <intro>&lt;p&gt;Post the list of 10 items that your team identified for the Mission to Mars activity into this wiki. Then as a class, review the compiled list and make comments or additions.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timecreated>0</timecreated>
+    <timemodified>1389420909</timemodified>
+    <firstpagetitle>Mission to Mars</firstpagetitle>
+    <wikimode>collaborative</wikimode>
+    <defaultformat>html</defaultformat>
+    <forceformat>0</forceformat>
+    <editbegin>0</editbegin>
+    <editend>0</editend>
+    <subwikis>
+    </subwikis>
+  </wiki>
+</activity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1486" moduleid="7289" modulename="label" contextid="21097">
+  <label id="1486">
+    <name>In this section you will find the resources we hav...</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: right;"&gt;&lt;img src="@@PLUGINFILE@@/Logo%20Peee-IR-View.png" alt="Peer-IR-View Logo" width="299" height="57"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span class="" style="color: rgb(0, 46, 184);"&gt;In this section you will find the resources we have used to develop this Moodle course.&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1688471796</timemodified>
+  </label>
+</activity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="632" modulename="assign" contextid="783">
+  <assign id="8">
+    <name>Assignment 4: Course Redesign for Synchronous + Asynchronous Delivery (individual) 40%</name>
+    <intro>&lt;h3&gt;Assignment 4: Course Redesign for Synchronous + Asynchronous Delivery (individual) 40%&lt;/h3&gt;
+&lt;p&gt;You are asked to re-design a course or a module within a current or previously-taught course using effective synchronous learning design and facilitation principles. If you are not currently teaching, you can choose one of the following options instead of an existing course:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;a professional development module for faculty and/or staff;&lt;/li&gt;
+&lt;li&gt;a non-credit student support module;&lt;/li&gt;
+&lt;li&gt;an adaptation of current open educational resources into a course or&lt;/li&gt;
+&lt;li&gt;an alternative to be negotiated with the course instructor.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Prepare a redesign plan that includes the following:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Course or module context and background&lt;/li&gt;
+&lt;li&gt;Rationale for the re-design grounded in the relevant learning theories&lt;/li&gt;
+&lt;li&gt;Learning outcomes or objectives of the course/module&lt;/li&gt;
+&lt;li&gt;Description of the course/module re-design details, including any special considerations that need to be considered in its delivery and implementation&lt;/li&gt;
+&lt;li&gt;A plan for the effective facilitation of the re-designed course/module focusing on synchronous learning strategies (similar to an instructor's guide)&lt;/li&gt;
+&lt;li&gt;Technology requirements and constraints&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Deliverable&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Course redesign Plan with a maximum of 1500 words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your instructor is available to help you determine the appropriate topic and scope of your re-design project.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>1</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>0</sendstudentnotifications>
+    <duedate>1390025700</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>1389420900</allowsubmissionsfromdate>
+    <grade>100</grade>
+    <timemodified>1417537681</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="62">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="63">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="64">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>3</value>
+      </plugin_config>
+      <plugin_config id="65">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>20971520</value>
+      </plugin_config>
+      <plugin_config id="66">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="67">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="69">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="70">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="36" modulename="book" contextid="73">
+  <book id="2">
+    <name>Readings &amp; Resources</name>
+    <intro>&lt;p&gt;Readings &amp;amp; Resources&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>0</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1389408803</timecreated>
+    <timemodified>1389409110</timemodified>
+    <chapters>
+      <chapter id="7">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Required Texts</title>
+        <content>&lt;p&gt;These are the course texts. Please see individual course units for specific readings from these texts.&lt;/p&gt;
+&lt;p&gt;Anderson, T. &amp;amp; Elloum, F. (Eds.) (2008). &lt;a target="_blank" title="Theory and Practice of Online Learning" href="http://cde.athabascau.ca/online_book/"&gt;&lt;em&gt;Theory and practice of online learning.&lt;/em&gt;&lt;/a&gt;  Athabasca University.&lt;/p&gt;
+&lt;p&gt;Finkelstein, J. (2006). &lt;em&gt;Learning in real time:  Synchronous teaching and learning online&lt;/em&gt;. San Francisco: Jossey-Bass.&lt;/p&gt;
+&lt;p&gt;Hyder, K., Kwinn, A., Miazga, R., &amp;amp; Murray, M. (2007). &lt;a target="_blank" title="The eLearning Guild’s: Handbook on Synchronous e-Learning" href="http://ebookee.org/The-eLearning-Guild-s-Handbook-on-Synchronous-e-Learning_1058693.html"&gt;&lt;em&gt;The eLearning guild’s handbook on synchronous e-learning&lt;/em&gt;&lt;/a&gt;. Santa Rosa, CA: The e-Learning Guild.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409095</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="8">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Unit 1</title>
+        <content>&lt;h4&gt;Required Readings&lt;/h4&gt;
+&lt;p&gt;Ally, M. (2008). &lt;a target="_blank" title="Chapter One: Foundations of educational theory for online learning." href="http://cde.athabascau.ca/online_book/ch1.html"&gt;Chapter One: Foundations of educational theory for online learning.&lt;/a&gt; In Anderson, F. &amp;amp; Elloum, F.  (Eds).Theory and practice of online learning.  Athabasca University.&lt;/p&gt;
+&lt;p&gt;Finkelstein, J. (2006). Learning in real time:  Synchronous teaching and learning online. San Francisco: Jossey-Bass. (Chapters 1 and 2).&lt;/p&gt;
+&lt;p&gt;Hrastinski, S. (2008). &lt;a target="_blank" title="A study of asynchronous and synchronous e-learning methods discovered that each supports different purposes (pdf)" href="http://net.educause.edu/ir/library/pdf/EQM0848.pdf"&gt;A study of asynchronous and synchronous e-learning methods discovered that each supports different purposes.&lt;/a&gt; EDUCAUSE Quarterly, 31(4), (October–December). Retrieved from http://net.educause.edu/ir/library/pdf/EQM0848.pdf.&lt;/p&gt;
+&lt;p&gt;Hyder, K., Kwinn, A., Miazga, R., &amp;amp; Murray, M. (2007).&lt;a target="_blank" title="The eLearning Guild’s: Handbook on Synchronous e-Learning" href="http://ebookee.org/The-eLearning-Guild-s-Handbook-on-Synchronous-e-Learning_1058693.html"&gt; The eLearning guild’s handbook on synchronous e-learning.&lt;/a&gt; Santa Rosa, CA: The e-Learning Guild. (Chapter 1).&lt;/p&gt;
+&lt;p&gt;Olaniran, B.A. (2006). &lt;a target="_blank" title="Applying synchronous computer-mediated communication into course design. " href="https://ezproxy.royalroads.ca/login?url=http://search.proquest.com.ezproxy.royalroads.ca/docview/218046149?accountid=8056.%20"&gt;Applying synchronous computer-mediated communication into course design&lt;/a&gt;. Campus-Wide Information Systems, 23(3), 210-220. doi:10.1108/10650740610674210.&lt;/p&gt;
+&lt;h4&gt;Video resources&lt;/h4&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title="Adult Learning Techniques - Part 1 " href="http://youtu.be/8leJYqI_dNw"&gt;Adult learning techniques – Part 1.&lt;/a&gt; [Video file]. &lt;/p&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title="Adult Learning Techniques - Part 2 " href="http://youtu.be/FRfnFWi_m0I"&gt;Adult learning techniques – Part 2.&lt;/a&gt; [Video file]. &lt;/p&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title="Adult Learning Techniques - Part 3 " href="http://youtu.be/4zCkRDTWYV4"&gt;Adult learning techniques – Part 3.&lt;/a&gt; [Video file].&lt;/p&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title="Adult Learning Techniques - Part 4 " href="http://youtu.be/CChcXCp6nCc"&gt;Adult learning techniques – Part 4&lt;/a&gt;. [Video file]. ‬‬‬‬&lt;br /&gt;‪&lt;/p&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title="Adult Learning Techniques - Part 5 " href="http://youtu.be/pZm8RjIBePs"&gt;Adult learning techniques – Part 5&lt;/a&gt;. [Video file]. &lt;br /&gt;‪&lt;/p&gt;
+&lt;p&gt;Brainmass Video Lectures (Producer) &amp;amp; Kavanagh, J. (Presenter). (2013, March 28). &lt;a target="_blank" title=" Adult Learning Techniques - Part 6 " href="http://youtu.be/7RjUSwANVF4"&gt;Adult learning techniques – Part 6&lt;/a&gt;. [Video file].  ‬&lt;/p&gt;
+&lt;p&gt;LearningTechUK (Producer) &amp;amp; Jennings, C. (Presenter). (2013, March 28). &lt;a target="_blank" title="Charles Jennings - The Four Ways Adults Learn : Learning Technologies 2013 " href="http://youtu.be/Y0ItF1s9O9Y"&gt;Charles Jennings – The four ways adults learn: Learning technologies&lt;/a&gt;. [Video file].&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409255</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="9">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Unit 2</title>
+        <content>&lt;h4&gt;Readings&lt;/h4&gt;
+&lt;p&gt;Finkelstein, J. (2006). Learning in real time:  Synchronous teaching and learning online. San Francisco: Jossey-Bass. (Chapters 3 and 4).&lt;/p&gt;
+&lt;p&gt;Hyder, K., Kwinn, A., Miazga, R., &amp;amp; Murray, M. (2007).&lt;a target="_blank" title="The eLearning Guild’s: Handbook on Synchronous e-Learning" href="http://ebookee.org/The-eLearning-Guild-s-Handbook-on-Synchronous-e-Learning_1058693.html"&gt; The eLearning guild’s handbook on synchronous e-learning.&lt;/a&gt; Santa Rosa, CA: The e-Learning Guild. (pp 17-24).&lt;/p&gt;
+&lt;p&gt;Hrastinski, S., Keller, C. &amp;amp; Carlsson, S.A. (2010).&lt;a target="_blank" title="Design exemplars for synchronous e-learning: A design theory approach" href="http://dx.doi.org.ezproxy.royalroads.ca/10.1016/j.compedu.2010.02.025"&gt; Design exemplars for synchronous e-learning: a design theory approach&lt;/a&gt;. Computers &amp;amp; Education, 55 (2), 652-662.&lt;/p&gt;
+&lt;h4&gt;Rubric Samples&lt;/h4&gt;
+&lt;p&gt;California State University, Chico (2009). &lt;a target="_blank" title="rubrics for online instruction" href="http://www.csuchico.edu/tlp/resources/rubric/rubric.pdf"&gt;Rubrics for online instruction&lt;/a&gt;. (Use the section on Innovative use of Technology).    &lt;/p&gt;
+&lt;p&gt;San Diego State University (n.d.). &lt;a target="_blank" title="rubric template" href="http://edweb.sdsu.edu/triton/july/rubrics/Rubric_Template.html"&gt;Rubric template&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;University of Wisconsin—Stout (2012).&lt;a target="_blank" title="rubrics for assessment" href="http://www.uwstout.edu/soe/profdev/rubrics.cfm"&gt; Rubrics for assessment resources&lt;/a&gt;. &lt;/p&gt;
+&lt;h4&gt;Video resources&lt;/h4&gt;
+&lt;p&gt;Facilitador (Producer) &amp;amp; Dornbush, C. (Presenter).‬‬‬‬‬‬ (2012, February 2).  &lt;a target="_blank" title="E-learning: How to deliver an engaging Virtual Classroom presentation " href="http://youtu.be/VxY22IhbaH4"&gt;Learn how to deliver an engaging virtual classroom presentation in under 10 Minutes!&lt;/a&gt; [YouTube video file]&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409354</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="10">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Unit 3</title>
+        <content>&lt;h4&gt;Readings&lt;/h4&gt;
+&lt;p&gt;Entin, E.B., Sidman, J., &amp;amp; Neal, L. (2009).  &lt;em&gt;&lt;a target="_blank" title="Computer-Supported Collaborative Learning: Best Practices and Principles for Instructors Development of online distributed training: Practical considerations and lessons learned" href="http://elearnmag.acm.org/featured.cfm?aid=1599451"&gt;Computer-supported collaborative learning: Best practices and principles for instructors. Development of online distributed training: Practical considerations and lessons learned.&lt;/a&gt;&lt;/em&gt; eLearn Magazine.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Fahy, P.J., (2008). &lt;a target="_blank" title="Chapter 6  Media Characteristics and Online Learning Technology" href="http://cde.athabascau.ca/online_book/ch6.html"&gt;Chapter six: Media characteristics and online learning technology&lt;/a&gt;. In T. Anderson &amp;amp; F. Elloum (Eds.), Theory and practice of online learning.  Athabasca University.     &lt;/p&gt;
+&lt;p&gt;Finkelstein, J. (2006). Learning in real time:  Synchronous teaching and learning online. San Francisco: Jossey-Bass. (Chapter 5, pp. 93 -98 and Chapter 6).&lt;/p&gt;
+&lt;p&gt;Hyder, K., Kwinn, A., Miazga, R., &amp;amp; Murray, M. (2007).&lt;a target="_blank" title="The eLearning Guild’s: Handbook on Synchronous e-Learning" href="http://ebookee.org/The-eLearning-Guild-s-Handbook-on-Synchronous-e-Learning_1058693.html"&gt; The eLearning guild’s handbook on synchronous e-learning.&lt;/a&gt; Santa Rosa, CA: The e-Learning Guild. (Chapters 3, 4, and 5).&lt;/p&gt;
+&lt;h4&gt;Video resources&lt;/h4&gt;
+&lt;p&gt;Gwenna Moss Centre for Teaching Effectiveness, U. of Saskatchewan. (2012, November 28).&lt;a target="_blank" title="Guest Lecturers in Online Courses" href="http://youtu.be/1gWPnrj1YpQ"&gt; Guest lecturers in online courses&lt;/a&gt;. (watch to 3min mark)‬‬‬‬. ‬‬‬‬&lt;/p&gt;
+&lt;p&gt;Gwenna Moss Centre for Teaching Effectiveness, U. of Saskatchewan. (2012, November 28). ‪&lt;a target="_blank" title="Using Collaborate or Other Synchronous Tools" href="http://youtu.be/fR5svdb0_2Y"&gt;Using collaborate or other synchronous tools&lt;/a&gt;‬. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409411</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="11">
+        <pagenum>5</pagenum>
+        <subchapter>0</subchapter>
+        <title>Unit 4</title>
+        <content>&lt;h4&gt;Readings&lt;/h4&gt;
+&lt;p&gt;Finkelstein, J. (2006). Learning in real time:  Synchronous teaching and learning online. San Francisco: Jossey-Bass. (Chapter 5, pp. 65 - 93).&lt;/p&gt;
+&lt;p&gt;Hyder, K., Kwinn, A., Miazga, R., &amp;amp; Murray, M. (2007).&lt;a target="_blank" title="The eLearning Guild’s: Handbook on Synchronous e-Learning" href="http://ebookee.org/The-eLearning-Guild-s-Handbook-on-Synchronous-e-Learning_1058693.html"&gt; The eLearning guild’s handbook on synchronous e-learning.&lt;/a&gt; Santa Rosa, CA: The e-Learning Guild. (Chapter 3, pp. 43-44; Chapter 6 and 7).&lt;/p&gt;
+&lt;p&gt;Stewart. A.R., Harlow, D.B. &amp;amp; DeBacco, K. (2011). &lt;a target="_blank" title="Students’ experience of synchronous learning in distributed environments (PDF)" href="http://www.tandfonline.com/doi/pdf/10.1080/01587919.2011.610289"&gt;Students’ experience of synchronous learning in distributed environments&lt;/a&gt;. Distance Education, 32 (3), 357–381. DOI: 10.1080/01587919.2011.610289.&lt;/p&gt;
+&lt;h4&gt;Video resources&lt;/h4&gt;
+&lt;p&gt;Rothler, D. (Presenter). (2013, May 30). ‪&lt;a target="_blank" title="Synchronous Tools and How to Use them - Blended Learning Advanced Teacher Training, Part 2 " href="http://youtu.be/QVvdN8o_I5A"&gt;Synchronous tools and how to use them - blended learning advanced teacher training, Part 2&lt;/a&gt;.‬ [YouTube video]&lt;br /&gt;‬‬‬‬‬‬&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409462</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="12">
+        <pagenum>6</pagenum>
+        <subchapter>0</subchapter>
+        <title>Unit 5</title>
+        <content>&lt;h4&gt;Readings&lt;/h4&gt;
+&lt;p&gt;Finkelstein, J. (2006). Learning in real time:  Synchronous teaching and learning online. San Francisco: Jossey-Bass. (Additional Resources pp. 129 - 142)&lt;/p&gt;
+&lt;p&gt;Smyth, R. (2011). &lt;a target="_blank" title="Enhancing learner–learner interaction using video communications in higher education: Implications from theorising about a new model (PDF)" href="http://onlinelibrary.wiley.com.ezproxy.royalroads.ca/doi/10.1111/j.1467-8535.2009.00990.x/pdf"&gt;Enhancing learner–learner interaction using video communications in higher education: Implications from theorising about a new model.&lt;/a&gt; British Journal of Educational Technology, 42(1), 113-127.  doi:10.1111/j.1467-8535.2009.00990.x&lt;/p&gt;
+&lt;h4&gt;Video resources&lt;/h4&gt;
+&lt;p&gt;Tedx (Producer) &amp;amp; Clark, D. (Presenter). (2012, April 2). &lt;a target="_blank" title="More pedagogic change in 10 years than last 1000 years: Donald Clark at TEDxGlasgow " href="http://youtu.be/dEJ_ATgrnnY"&gt;More pedagogic change in 10 years than last 1000 years: Donald Clark at Tedx Glasgow&lt;/a&gt;. [YouTube video]&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1389409503</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

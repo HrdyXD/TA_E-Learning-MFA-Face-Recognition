@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="665" moduleid="7338" modulename="hvp" contextid="25497">
+  <hvp id="665">
+    <name>💫 1. My social circle</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/es/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank"&gt;Erasmus+ Program Priorities (inclusion and diversity)&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":true,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Comprobar","submitAnswer":"Enviar","tryAgain":"Reintentar","showSolution":"Mostrar soluci\u00f3n","up":"Arriba","down":"Abajo","disabled":"Deshabilitado"},"a11y":{"check":"Comprobar las respuestas. Las respuestas ser\u00e1n marcadas como correcta o incorrecta.","showSolution":"Mostrar la soluci\u00f3n. La soluci\u00f3n correcta ser\u00e1 mostrada.","retry":"Reintentar el trabajo. Reiniciar todos los elementos y comenzar el trabajo de nuevo.","yourResult":"Usted obtuvo @score de un total de @total puntos","listDescription":"Lista ordenable de p\u00e1rrafos.","listDescriptionCheckAnswer":"Lista de p\u00e1rrafos con resultados.","listDescriptionShowSolution":"Lista de p\u00e1rrafos con soluciones.","paragraph":"P\u00e1rrafo","correct":"correcto","wrong":"incorrecto","point":"@score punto","sevenOfNine":"@current de @total","currentPosition":"Posici\u00f3n actual en lista","instructionsSelected":"Presione la barra espaciadora para reordenar","instructionsGrabbed":"Presione las teclas de flechas arriba y abajo para cambiar posici\u00f3n, barra espaciadora para soltar, escape para cancelar","grabbed":"Agarrada","moved":"Movida","dropped":"Soltada","reorderCancelled":"Reordenar cancelado","finalPosition":"Posici\u00f3n final","nextParagraph":"P\u00e1rrafo siguiente","correctParagraph":"P\u00e1rrafo correcto en posici\u00f3n"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;How diverse is your social circle?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Do you have social relations with people of different religions, cultures, ethnicities or sexual orientations?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;Yes, my social circle reflects the diversity around me. I believe that a diverse group of friends can really enrich your life.&lt;\/p&gt;\n","&lt;p&gt;I have one or two friends from different backgrounds. I do not make a great effort to make new friends with people who have different perspectives or beliefs.&lt;\/p&gt;\n","&lt;p&gt;I talk to people from different backgrounds in an academic context, but I generally find it difficult for us to become good friends.&lt;\/p&gt;\n","&lt;p&gt;No, I do not. I prefer to socialise with people closer to my environment.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>de-que-va-eso-de-los-conocimientos-y-habilidades-interculturales</slug>
+    <timecreated>1685618421</timecreated>
+    <timemodified>1689232161</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

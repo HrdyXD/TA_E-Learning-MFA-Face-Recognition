@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="74" modulename="folder" contextid="112">
+  <folder id="2">
+    <name>Lesson Plans (for faculty)</name>
+    <intro>&lt;p&gt;Download unit lesson plans.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>5</revision>
+    <timemodified>1395431724</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+  </folder>
+</activity>

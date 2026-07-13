@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in to Tugas Akhir - Face ID</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="login-wrapper">
+    <div class="login-card">
+        <img src="{{ url_for('static', filename='image/logo.png') }}" class="logo" />
+        
+        <h2>Register Face ID</h2>
+        
+        <div class="face-id-container">
+            <svg id="progress-svg" class="progress-ring">
+                <circle class="progress-ring__circle" />
+                <circle id="progress-bar" class="progress-ring__progress" />
+            </svg>
+
+            <div id="video-wrapper">
+                <video id="video" autoplay playsinline></video>
+            </div>
+        </div>
+        
+        <div id="pose-instruction" style="font-weight: bold; font-size: 1.2em; margin-top: 10px; color: var(--moodle-blue);"></div>
+        <div id="status-text">Kamera disiapkan...</div>
+        
+        <canvas id="canvas" style="display:none;"></canvas>
+        <button id="capture-btn" class="btn btn-block">Mulai Registrasi</button>
+    </div>
+</div>
+        
+    <script>
+        const video = document.getElementById('video');
+        const canvas = document.getElementById('canvas');
+        const statusText = document.getElementById('status-text');
+        const poseInstruction = document.getElementById('pose-instruction');
+        const captureBtn = document.getElementById('capture-btn');
+        
+        const progressSVG = document.getElementById('progress-svg');
+        const progressBar = document.getElementById('progress-bar');
+        const progressCircle = progressSVG.querySelector('.progress-ring__circle');
+
+        const context = canvas.getContext('2d', { willReadFrequently: true });
+        const target_username = "{{ username }}";
+
+        // Total gambar yang dibutuhkan untuk disamakan dengan dataset
+        const TARGET_FRAMES = 50;
+
+        // Setup Ring Progress
+        function setupProgressRing() {
+            const containerSize = progressSVG.clientWidth;
+            const radius = (containerSize / 2) - 6; 
+            const circumference = 2 * Math.PI * radius;
+            progressCircle.setAttribute('r', radius);
+            progressCircle.setAttribute('cx', containerSize / 2);
+            progressCircle.setAttribute('cy', containerSize / 2);
+            progressBar.setAttribute('r', radius);
+            progressBar.setAttribute('cx', containerSize / 2);
+            progressBar.setAttribute('cy', containerSize / 2);
+            progressBar.style.strokeDasharray = circumference;
+            return circumference;
+        }
+
+        let circumference = 0;
+        window.addEventListener('resize', () => { circumference = setupProgressRing(); });
+
+        function setProgress(percent) {
+            if(circumference === 0) circumference = setupProgressRing();
+            const offset = circumference - (percent / 100 * circumference);
+            progressBar.style.strokeDashoffset = offset;
+            progressBar.style.stroke = percent >= 100 ? "var(--success-green)" : "var(--moodle-blue)";
+        }
+
+        // Akses Kamera
+        navigator.mediaDevices.getUserMedia({ video: { width: 320, height: 240 } })
+            .then(stream => { 
+                video.srcObject = stream; 
+                video.onloadedmetadata = () => {
+                    circumference = setupProgressRing();
+                    setProgress(0);
+                };
+                statusText.innerText = "Siap dimulai."; 
+            })
+            .catch(err => {
+                statusText.innerText = "Kamera tidak dapat diakses.";
+                statusText.className = "text-danger";
+                captureBtn.disabled = true;
+            });
+
+        // Helper fungsi jeda (sleep)
+        const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+        captureBtn.addEventListener('click', async () => {
+            captureBtn.disabled = true;
+            captureBtn.innerText = "Merekam Wajah...";
+            let samples = [];
+
+            // 1. Instruksi awal untuk user (Mirip instruksi Face ID)
+            poseInstruction.innerText = "Bersiap...";
+            
+            // Countdown 3 detik hanya di awal agar user siap
+            for (let count = 3; count > 0; count--) {
+                statusText.innerText = `Perekaman dimulai dalam ${count}...`;
+                await sleep(1000);
+            }
+
+            poseInstruction.innerText = "Putar kepala Anda perlahan";
+            statusText.innerText = "Mendeteksi wajah...";
+
+            // 2. Looping tanpa henti sampai 50 frame valid terkumpul
+            while (samples.length < TARGET_FRAMES) {
+                // Ambil Gambar (Snap)
+                canvas.width = video.videoWidth;
+                canvas.height = video.videoHeight;
+                context.drawImage(video, 0, 0, canvas.width, canvas.height);
+                const dataURL = canvas.toDataURL('image/jpeg', 0.8);
+
+                try {
+                    // Cek apakah ada wajah di frame tersebut agar data tidak sampah
+                    const check = await fetch('/check_face', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body: JSON.stringify({ image: dataURL })
+                    });
+                    
+                    if (check.redirected) {
+                        window.location.href = check.url;
+                        return;
+                    }
+
+                    const res = await check.json();
+
+                    if (res.has_face) {
+                        samples.push(dataURL); // Simpan frame
+                        
+                        // Update Progress Bar
+                        const progressPercent = (samples.length / TARGET_FRAMES) * 100;
+                        setProgress(progressPercent);
+                        
+                        statusText.innerText = `Merekam: ${samples.length} / ${TARGET_FRAMES} frame`;
+                        statusText.className = "text-success";
+                    } else {
+                        // Jika saat memutar kepala wajah hilang dari frame
+                        statusText.innerText = "Wajah tidak terlihat. Kembalikan ke tengah.";
+                        statusText.className = "text-danger";
+                    }
+                } catch (e) {
+                    console.error("Error validasi wajah:", e);
+                }
+
+                // Jeda sekitar 150ms antar jepretan agar user punya waktu menggerakkan kepala
+                // dan tidak membuat browser crash (Hang) karena request terlalu agresif
+                await sleep(150); 
+            }
+
+            // 3. Jika sudah mencapai 50 Frame, Kirim ke Server
+            poseInstruction.innerText = "Selesai Merekam";
+            statusText.innerText = "Menyimpan dan memproses embedding wajah...";
+            statusText.className = "text-success";
+
+            try {
+                const response = await fetch('/register_face', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ username: target_username, images: samples })
+                });
+
+                if (response.redirected) {
+                    window.location.href = response.url;
+                    return;
+                }
+
+                const result = await response.json();
+
+                if (result.status === 'success') {
+                    // Memberikan feedback berapa frame yang akhirnya ter-crop sukses oleh HAAR
+                    statusText.innerText = `Sukses memproses ${result.processed_frames} frame wajah! Silakan Login Ulang.`;
+                    statusText.className = "text-success";
+                    setTimeout(() => { 
+                        window.location.href = "http://192.168.101.8/moodle-2/login/index.php"; 
+                    }, 2000);
+                } else {
+                    statusText.innerText = "Gagal: " + result.message;
+                    statusText.className = "text-danger";
+                    resetCapture();
+                }
+            } catch (e) {
+                statusText.innerText = "Kesalahan Koneksi Server.";
+                statusText.className = "text-danger";
+                resetCapture();
+            }
+        });
+
+        function resetCapture() {
+            captureBtn.disabled = false;
+            captureBtn.innerText = "Coba Lagi";
+            poseInstruction.innerText = "";
+            setProgress(0);
+        }
+
+        // Timeout sesi otomatis dari sisi klien (fallback 5 menit)
+        setTimeout(() => { 
+            window.location.href = "/expired"; 
+        }, 300000);
+    </script>
+
+    <style>
+        #pose-instruction {
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .text-danger { color: #d9534f; }
+        .text-success { color: #5cb85c; }
+    </style>
+</body>
+</html>

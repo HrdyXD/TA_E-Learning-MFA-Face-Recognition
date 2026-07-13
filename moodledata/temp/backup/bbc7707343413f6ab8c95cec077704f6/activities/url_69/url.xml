@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="69" modulename="url" contextid="107">
+  <url id="6">
+    <name>Unit 5 Readings &amp; Resources</name>
+    <intro>&lt;p&gt;Unit 5 Readings &amp;amp; Resources&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>$@BOOKVIEWBYIDCH*36*12@$</externalurl>
+    <display>0</display>
+    <displayoptions>a:2:{s:12:"printheading";i:0;s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1389409790</timemodified>
+  </url>
+</activity>

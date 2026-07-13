@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="675" moduleid="7353" modulename="hvp" contextid="25512">
+  <hvp id="675">
+    <name>🏠 2. Sharing living space</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/es/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank"&gt;Erasmus+ Program Priorities&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":true,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Check","submitAnswer":"Submit","tryAgain":"Retry","showSolution":"Show solution","up":"Up","down":"Down","disabled":"Disabled"},"a11y":{"check":"Check the answers. The responses will be marked as correct or incorrect.","showSolution":"Show the solution. The correct solution will be displayed.","retry":"Retry the task. Reset all elements and start the task over again.","yourResult":"You got @score out of @total points","listDescription":"Sortable list of paragraphs.","listDescriptionCheckAnswer":"List of paragraphs with results.","listDescriptionShowSolution":"List of paragraphs with solutions.","paragraph":"Paragraph","correct":"correct","wrong":"wrong","point":"@score point","sevenOfNine":"@current of @total","currentPosition":"Current position in list","instructionsSelected":"Press spacebar to reorder","instructionsGrabbed":"Press up and down arrow keys to change position, spacebar to drop, escape to cancel","grabbed":"Grabbed","moved":"Moved","dropped":"Dropped","reorderCancelled":"Reorder cancelled","finalPosition":"Final position","nextParagraph":"Next paragraph","correctParagraph":"Correct paragraph at position"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Could you share living space with an international student or host family abroad?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;How would you adjust to living with an international student or local family while abroad?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;I would love to live with someone from another background - what better way to learn about the intricacies of their culture and understand, for example, how others define concepts of personal space?&lt;\/p&gt;\n","&lt;p&gt;I think it would be good to compromise. It might even be interesting to see how other cultures do things at home.&lt;\/p&gt;\n","&lt;p&gt;It would be fine as long as we have some established rules about personal space, use of the kitchen and other parts of family life.&lt;\/p&gt;\n","&lt;p&gt;I don't think I would cope particularly well. My personal space is very important to me.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>curiosidad-sobre-temas-internacionales</slug>
+    <timecreated>1685618757</timecreated>
+    <timemodified>1689236630</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

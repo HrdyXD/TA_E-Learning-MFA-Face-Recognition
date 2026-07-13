@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verifikasi Wajah</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  </head>
+
+  <body>
+    <div class="login-wrapper">
+      <div class="login-card">
+        <img src="{{ url_for('static', filename='image/logo.png') }}" class="logo" />
+        <h2>Verifikasi Wajah</h2>
+        <p class="subtitle">
+          Silakan lihat ke kamera untuk melanjutkan proses login
+        </p>
+
+        <div id="video-container">
+          <video id="video" autoplay playsinline muted></video>
+          <div id="overlay">Menyiapkan kamera...</div>
+        </div>
+
+        <canvas id="canvas" style="display:none;"></canvas>
+
+        <div class="details">
+          <ul>
+            <li>Pastikan wajah terlihat jelas</li>
+            <li>Tahan posisi selama <strong>3 detik</strong></li>
+            <li>Waktu verifikasi maksimal <strong>60 detik</strong></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const video = document.getElementById("video");
+      const canvas = document.getElementById("canvas");
+      const overlay = document.getElementById("overlay");
+      const ctx = canvas.getContext("2d");
+
+      let isScanning = true;
+      let scanInterval = null;
+
+      // ================= START CAMERA =================
+      async function startCamera() {
+        try {
+          const stream = await navigator.mediaDevices.getUserMedia({
+            video: {
+              facingMode: "user",
+              width: { ideal: 640 },
+              height: { ideal: 480 }
+            },
+            audio: false
+          });
+
+          video.srcObject = stream;
+
+          video.onloadedmetadata = () => {
+            video.play();
+            overlay.innerText = "Arahkan wajah ke kamera";
+            overlay.style.color = "white";
+            startScanLoop();
+          };
+        } catch (err) {
+          console.error(err);
+          overlay.innerText = "Gagal mengakses kamera";
+          overlay.style.color = "#d9534f";
+        }
+      }
+
+      // ================= SCAN LOOP =================
+      function startScanLoop() {
+        if (scanInterval) {
+          clearInterval(scanInterval);
+        }
+        scanInterval = setInterval(scanFrame, 500);
+      }
+
+      // ================= SCAN =================
+      async function scanFrame() {
+        if (!isScanning) return;
+
+        // video belum siap
+        if (video.readyState !== 4 || video.videoWidth === 0) {
+          return;
+        }
+
+        canvas.width = video.videoWidth;
+        canvas.height = video.videoHeight;
+
+        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+        const image = canvas.toDataURL("image/jpeg", 0.8);
+
+        try {
+          const formData = new FormData();
+          formData.append("image", image);
+
+          const response = await fetch("/scan", {
+            method: "POST",
+            body: formData
+          });
+
+          const result = await response.json();
+
+          // === PERBAIKAN: INTERSEPT REDIRECT TIMEOUT DARI SERVER ===
+          if (result.redirect && result.status === "timeout") {
+            isScanning = false;
+            clearInterval(scanInterval);
+            window.location.href = result.redirect;
+            return;
+          }
+
+          // ================= SUCCESS =================
+          if (result.status === "success") {
+            isScanning = false;
+            clearInterval(scanInterval);
+
+            overlay.innerText = "Verifikasi berhasil";
+            overlay.className = "status-success";
+
+            setTimeout(() => {
+              window.location.href = result.redirect;
+            }, 500);
+
+            return;
+          }
+
+          // ================= MATCHING =================
+          if (result.status === "matching") {
+            overlay.innerText = `Cocok! tahan posisi (${result.duration}s / 3s)`;
+            overlay.style.color = "#5cb85c";
+          }
+          // ================= NOT MATCH =================
+          else if (result.status === "not_match") {
+            overlay.innerText = `Wajah tidak dikenali (${result.confidence})`;
+            overlay.style.color = "#d9534f";
+          }
+          // ================= NO FACE =================
+          else if (result.status === "no_face") {
+            overlay.innerText = "Wajah tidak ditemukan";
+            overlay.style.color = "white";
+          }
+          // ================= ERROR =================
+          else if (result.status === "error") {
+            overlay.innerText = "Terjadi kesalahan sistem";
+            overlay.style.color = "#d9534f";
+          }
+
+        } catch (err) {
+          console.error(err);
+          overlay.innerText = "Koneksi ke server gagal";
+          overlay.style.color = "#d9534f";
+        }
+      }
+
+      // ================= INIT =================
+      startCamera();
+    </script>
+  </body>
+</html>

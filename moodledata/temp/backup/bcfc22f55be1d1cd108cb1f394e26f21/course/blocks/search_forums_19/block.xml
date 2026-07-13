@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="19" contextid="63" version="2019052000">
+  <blockname>search_forums</blockname>
+  <parentcontextid>61</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>0</defaultweight>
+  <configdata></configdata>
+  <timecreated>1526387698</timecreated>
+  <timemodified>1526387698</timemodified>
+  <block_positions>
+    <block_position id="1">
+      <contextid>61</contextid>
+      <pagetype>course-view-topics</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-post</region>
+      <weight>4</weight>
+    </block_position>
+  </block_positions>
+</block>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="40" modulename="page" contextid="77">
+  <page id="6">
+    <name>Unit 1 Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;In this opening week, you will explore the relevant attributes of adult learning theory to synchronous learning. Synchronous learning, in its many forms, will be defined and its benefits explored. You will also examine the continuum of learning environments in which synchronous learning can take place as well as the differences in face-to-face and distributed learning contexts. The unit will end with a focus on examining the needs of the synchronous learner and the synchronous instructor.&lt;/p&gt;
+&lt;h4&gt;Key Learning Activities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Make introductions/provide expectations.&lt;/li&gt;
+&lt;li&gt;Engage in synchronous icebreaker activity.&lt;/li&gt;
+&lt;li&gt;Participate in synchronous discussion forums: “How do the key concepts in Ally’s article on the foundations of educational theory relate to synchronous learning?” Discuss in small groups, and post a response in plenary discussion group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Notes on the Readings &amp;amp; Resources&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;Unit 1 introduces you to the two key texts used in the course:&lt;em&gt; Learning in Real Time: Synchronous Teaching and Learning&lt;/em&gt; and &lt;em&gt;The eLearning Guild’s Handbook on Synchronous E-Learning&lt;/em&gt;. Selected chapters from the online text, &lt;em&gt;Theory and Practice in Online Learning&lt;/em&gt;, are also used. Print articles and videos round out the resources used in the course.&lt;br /&gt;&lt;br /&gt;As introduction to synchronous learning, read chapters 1 &amp;amp; 2 in the Finkelstein text. Hrastinski’s (2008) article provides context for the course by comparing asynchronous and synchronous e-learning methodologies. And ch 1 of the eLearning Guild’s handbook identifies the main categories of synchronous e-learning technologies. Olaniran's (2006) article provides a comparison of the features of synchronous &amp;amp; asynchronous communication technologies and traditional face-to-face media, including practical applications and implementations.&lt;br /&gt;&lt;br /&gt;Prepare for group discussion by reading Ally’s (2008) chapter on educational theory for online learning. While reading, consider how the key concepts presented in the chapter relate to synchronous learning.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;The first five videos provide background in adult learning theory.&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Adult Learning Techniques, highlighting characteristics of adult learners in parts 1 [9:26] &amp;amp; 2. [5:31]&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/8leJYqI_dNw?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/FRfnFWi_m0I?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The concept of ADDIE (Assess, Design, Develop, Implement, and Evaluate) is explored in depth. [9:48]&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/4zCkRDTWYV4?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adult learning theories are identified and analyzed: andragogy, behaviorism, and constructivism. [6:42]&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/CChcXCp6nCc?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adult learning theories are identified and analyzed: transformative learning and holistic learning. [7:48]&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/pZm8RjIBePs?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h4 id="watch-headline-title" class="yt"&gt;&lt;strong&gt;&lt;span id="eow-title" class="watch-title long-title yt-uix-expander-head" dir="ltr" title="Charles Jennings - The Four Ways Adults Learn : Learning Technologies 2013"&gt;And for another perspective, watch Charles Jennings on the the four ways adults learn: experience, practice, conversation and reflection. Primarily focusing on performance improvement. [22:02]&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/Y0ItF1s9O9Y?rel=0" allowfullscreen="" frameborder="0" height="360" width="640"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1395451765</timemodified>
+  </page>
+</activity>

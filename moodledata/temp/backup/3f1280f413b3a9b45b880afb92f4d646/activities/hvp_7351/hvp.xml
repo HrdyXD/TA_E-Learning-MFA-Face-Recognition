@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="673" moduleid="7351" modulename="hvp" contextid="25510">
+  <hvp id="673">
+    <name>🔥🎬 A transformative experience</name>
+    <machine_name>H5P.InteractiveVideo</machine_name>
+    <major_version>1</major_version>
+    <minor_version>24</minor_version>
+    <intro>&lt;div&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/es/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank"&gt;Erasmus+ Program Priorities&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;Activate English subtitles from CC button&lt;br&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"interactiveVideo":{"video":{"startScreenOptions":{"title":"Interactive Video","hideStartTitle":true},"textTracks":{"videoTrack":[{"label":"Subtitles","kind":"subtitles","srcLang":"en"}]},"files":[{"path":"https:\/\/youtu.be\/qeCPFFhRMVs","mime":"video\/YouTube","copyright":{"license":"CC BY-NC-ND","title":"Una experiencia transformadora","author":"ORI UC","year":"2022","source":"https:\/\/eunice-university.eu\/peer-ir-view-iro-video-pills-handbook\/","version":"4.0"}}]},"assets":{"interactions":[],"bookmarks":[{"time":5.7952957059968186,"label":"What will the exchange experience give you??"},{"time":58.611949800997067,"label":"Living with people you don&amp;#039;t know"},{"time":73.782238530993823,"label":"Going through personal change"},{"time":124.15320891199848,"label":"Widenning your own world"},{"time":195.86036602600171,"label":"Facing everyday challenges "},{"time":220.43822416699672,"label":"A route to new opportunities"},{"time":263.78181299600408,"label":"Get from home out to the world!"}],"endscreens":[{"time":295,"label":"4:55 Submit screen"}]},"summary":{"task":{"library":"H5P.Summary 1.10","params":{"intro":"Choose the correct statement.","summaries":[{"subContentId":"d5df3132-08bd-4341-96df-8c9f80919c13","tip":""}],"overallFeedback":[{"from":0,"to":100}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"fe07f236-ef3b-47ef-8813-59d17f6b2d64","metadata":{"contentType":"Summary","license":"U","title":"Untitled Summary","authors":[],"changes":[],"extraTitle":"Untitled Summary"}},"displayAt":3}},"override":{"autoplay":true,"loop":false,"showBookmarksmenuOnLoad":false,"showRewind10":true,"preventSkipping":false,"deactivateSound":false},"l10n":{"interaction":"Interaction","play":"Play","pause":"Pause","mute":"Mute, currently unmuted","unmute":"Unmute, currently muted","quality":"Video Quality","captions":"Captions","close":"Close","fullscreen":"Fullscreen","exitFullscreen":"Exit Fullscreen","summary":"Open summary dialog","bookmarks":"Bookmarks","endscreen":"Submit screen","defaultAdaptivitySeekLabel":"Continue","continueWithVideo":"Continue with video","more":"More player options","playbackRate":"Playback Rate","rewind10":"Rewind 10 Seconds","navDisabled":"Navigation is disabled","sndDisabled":"Sound is disabled","requiresCompletionWarning":"You need to answer all the questions correctly before continuing.","back":"Back","hours":"Hours","minutes":"Minutes","seconds":"Seconds","currentTime":"Current time:","totalTime":"Total time:","singleInteractionAnnouncement":"Interaction appeared:","multipleInteractionsAnnouncement":"Multiple interactions appeared.","videoPausedAnnouncement":"Video is paused","content":"Content","answered":"@answered answered","endcardTitle":"@answered Question(s) answered","endcardInformation":"You have answered @answered questions, click below to submit your answers.","endcardInformationOnSubmitButtonDisabled":"You have answered @answered questions.","endcardInformationNoAnswers":"You have not answered any questions.","endcardInformationMustHaveAnswer":"You have to answer at least one question before you can submit your answers.","endcardSubmitButton":"Submit Answers","endcardSubmitMessage":"Your answers have been submitted!","endcardTableRowAnswered":"Answered questions","endcardTableRowScore":"Score","endcardAnsweredScore":"answered","endCardTableRowSummaryWithScore":"You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.","endCardTableRowSummaryWithoutScore":"You have answered the @question that appeared after @minutes minutes and @seconds seconds."}}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>una-experiencia-transformadora</slug>
+    <timecreated>1681335688</timecreated>
+    <timemodified>1689236305</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

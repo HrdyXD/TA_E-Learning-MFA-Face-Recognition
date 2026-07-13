@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="20" moduleid="64" modulename="forum" contextid="102">
+  <forum id="20">
+    <type>general</type>
+    <name>Forum: post critique of a sample sync session &amp; discuss (class) - needs more details &amp; examples</name>
+    <intro>&lt;h3&gt;Forum: post critique of a synchronous session &amp;amp; discuss (class)&lt;/h3&gt;
+&lt;p&gt;In teams, attend the same live synchronous session or watch a recording of a synchronous session. Individually, critique the session using the critical analysis rubric developed in Unit 2 and post your critique to a new thread in the team forum. Read the critiques posted by other team members. Are themes emerging? Discuss as a team.&lt;/p&gt;
+&lt;p&gt;How to find a synchronous session to attend? You may want to attend a session at your institution or workplace. Here are few places to start:&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="scope bc campus sessions 2013" href="http://scope.bccampus.ca/course/view.php?id=8&amp;amp;section=2"&gt;Scope BC Campus&lt;/a&gt; upcoming &amp;amp; archived sessions&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="etug tell sessions" href="http://etug.ca/tag/t-e-l-l/"&gt;ETUG TELL&lt;/a&gt; upcoming &amp;amp; archived sessions archive&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="ASCD archived sessions" href="http://www.ascd.org/professional-development/webinars/ascd-webinar-archive.aspx"&gt;ASCD Webinars&lt;/a&gt; - PD archived sessions&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" title="Free webinar wednesdays" href="http://www.freewebinarwednesdays.com/"&gt;Free Webinar Wednesdays&lt;/a&gt; - business topics&lt;/p&gt;
+&lt;p&gt;If you cannot find something of interest on these sites, try a google search using "free webinar". Include a topic of interest in your search string.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>1</scale>
+    <maxbytes>20971520</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1394411777</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

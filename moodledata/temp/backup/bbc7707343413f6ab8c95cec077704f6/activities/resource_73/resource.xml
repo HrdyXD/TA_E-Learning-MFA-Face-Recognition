@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="73" modulename="resource" contextid="111">
+  <resource id="4">
+    <name>Facilitator's Guide</name>
+    <intro>&lt;p&gt;The Facilitator's guide provides general information about the course: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;structure&lt;/li&gt;
+&lt;li&gt;units&lt;/li&gt;
+&lt;li&gt;activities and assignments&lt;/li&gt;
+&lt;li&gt;social media&lt;/li&gt;
+&lt;li&gt;course resources&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:2:{s:12:"printheading";i:0;s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>1</revision>
+    <timemodified>1395451284</timemodified>
+  </resource>
+</activity>

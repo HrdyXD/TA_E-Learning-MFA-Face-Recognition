@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="7329" modulename="choicegroup" contextid="25488">
+  <choicegroup id="2">
+    <name>Get in touch with UC students who have a destination in the same country</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Select the country where you will be doing your exchange to be included in the country group and to be able to contact other UC students who will be doing their exchange in the same country.&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>1</publish>
+    <multipleenrollmentspossible>0</multipleenrollmentspossible>
+    <showresults>0</showresults>
+    <display>0</display>
+    <allowupdate>0</allowupdate>
+    <showunanswered>0</showunanswered>
+    <limitanswers>0</limitanswers>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1689189943</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <sortgroupsby>0</sortgroupsby>
+    <onlyactive>0</onlyactive>
+    <options>
+      <option id="25">
+        <groupid>143</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="26">
+        <groupid>144</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="27">
+        <groupid>145</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="28">
+        <groupid>146</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="29">
+        <groupid>147</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="30">
+        <groupid>148</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="31">
+        <groupid>149</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="32">
+        <groupid>150</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="33">
+        <groupid>151</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="34">
+        <groupid>152</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="35">
+        <groupid>153</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="36">
+        <groupid>154</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="37">
+        <groupid>155</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="38">
+        <groupid>156</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="39">
+        <groupid>157</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="40">
+        <groupid>158</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="41">
+        <groupid>159</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="42">
+        <groupid>160</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="43">
+        <groupid>161</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="44">
+        <groupid>162</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="45">
+        <groupid>163</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="46">
+        <groupid>164</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="47">
+        <groupid>165</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+      <option id="48">
+        <groupid>166</groupid>
+        <maxanswers>0</maxanswers>
+        <timemodified>1689189943</timemodified>
+      </option>
+    </options>
+  </choicegroup>
+</activity>

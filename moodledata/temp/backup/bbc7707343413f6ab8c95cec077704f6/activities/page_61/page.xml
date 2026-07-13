@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="15" moduleid="61" modulename="page" contextid="99">
+  <page id="15">
+    <name>Planning your Synchronous Session (team)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;The first two weeks of Unit 4 will be used to plan, practise and rehearse for your synchronous session (Assignment 3) that takes place in week 8 or 9.  Build on your team's brainstorming and audience analysis completed in the last unit, to prepare your session. Use your team's synchronous space to rehearse.&lt;/p&gt;
+&lt;p&gt;Your instructors will be available to meet with your team during weeks 6 &amp;amp; 7.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1394411501</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="3903" contextid="8628" version="2022112800">
+  <blockname>html</blockname>
+  <parentcontextid>8627</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>7</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mzp7czo1OiJ0aXRsZSI7czo4OiJDb250YWN0byI7czo2OiJmb3JtYXQiO3M6MToiMSI7czo0OiJ0ZXh0IjtzOjQ2MToiPGRpdj48c3Bhbj5QdWVkZXMgY29udGFjdGFyIGNvbiBub3NvdHJhcyBwb3IgY29ycmVvLWUgZW4gPGEgaHJlZj0ibWFpbHRvOmFsdW1ub3MuaW50ZXJjYW1iaW9AdW5pY2FuLmVzIiB0YXJnZXQ9Il9ibGFuayI+YWx1bW5vcy5pbnRlcmNhbWJpb0B1bmljYW4uZXM8L2E+IG8gcG9yIHRlbMOpZm9ubyBlbiBlbCArMzQgOTQyIDIwIDEwIDE4PC9zcGFuPjwvZGl2PjxkaXY+PHNwYW4+VGFtYmnDqW4gcHVlZGVzIHBhc2FydGUgcG9yIGxhIDxhIGhyZWY9Imh0dHBzOi8vd2ViLnVuaWNhbi5lcy91bmlkYWRlcy9vZmljaW5hLXJlbGFjaW9uZXMtaW50ZXJuYWNpb25hbGVzL2xhLW9yaSIgdGFyZ2V0PSJfYmxhbmsiPk9maWNpbmEgZGUgUmVsYWNpb25lcyBJbnRlcm5hY2lvbmFsZXM8L2E+IGVuIGhvcmFyaW8gZGUgYXRlbmNpw7NuIGFsIHDDumJsaWNvIChkZSAxMDowMGggYSAxMzowMGgpPGJyPjwvc3Bhbj48L2Rpdj4iO30=</configdata>
+  <timecreated>1541586056</timecreated>
+  <timemodified>1682413219</timemodified>
+  <block_positions>
+    <block_position id="247">
+      <contextid>8627</contextid>
+      <pagetype>course-view-topcoll</pagetype>
+      <subpage></subpage>
+      <visible>1</visible>
+      <region>side-pre</region>
+      <weight>3</weight>
+    </block_position>
+  </block_positions>
+</block>

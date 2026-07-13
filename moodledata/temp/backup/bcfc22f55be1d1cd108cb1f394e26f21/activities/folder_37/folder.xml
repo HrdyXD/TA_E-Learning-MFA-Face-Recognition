@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="37" modulename="folder" contextid="74">
+  <folder id="1">
+    <name>Assignment Rubrics</name>
+    <intro>&lt;p&gt;Donwload and review assignment rubrics.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>4</revision>
+    <timemodified>1391713010</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+  </folder>
+</activity>

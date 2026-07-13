@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="669" moduleid="7342" modulename="hvp" contextid="25501">
+  <hvp id="669">
+    <name>🌈 5. Cultural diversity</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank" title="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme"&gt;Erasmus+ Program Priorities (inclusion and diversity, Participation in democratic life, common values and civic engagement)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":false,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Comprobar","submitAnswer":"Enviar","tryAgain":"Reintentar","showSolution":"Mostrar soluci\u00f3n","up":"Arriba","down":"Abajo","disabled":"Deshabilitado"},"a11y":{"check":"Comprobar las respuestas. Las respuestas ser\u00e1n marcadas como correcta o incorrecta.","showSolution":"Mostrar la soluci\u00f3n. La soluci\u00f3n correcta ser\u00e1 mostrada.","retry":"Reintentar el trabajo. Reiniciar todos los elementos y comenzar el trabajo de nuevo.","yourResult":"Usted obtuvo @score de un total de @total puntos","listDescription":"Lista ordenable de p\u00e1rrafos.","listDescriptionCheckAnswer":"Lista de p\u00e1rrafos con resultados.","listDescriptionShowSolution":"Lista de p\u00e1rrafos con soluciones.","paragraph":"P\u00e1rrafo","correct":"correcto","wrong":"incorrecto","point":"@score punto","sevenOfNine":"@current de @total","currentPosition":"Posici\u00f3n actual en lista","instructionsSelected":"Presione la barra espaciadora para reordenar","instructionsGrabbed":"Presione las teclas de flechas arriba y abajo para cambiar posici\u00f3n, barra espaciadora para soltar, escape para cancelar","grabbed":"Agarrada","moved":"Movida","dropped":"Soltada","reorderCancelled":"Reordenar cancelado","finalPosition":"Posici\u00f3n final","nextParagraph":"P\u00e1rrafo siguiente","correctParagraph":"P\u00e1rrafo correcto en posici\u00f3n"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Would you be respectful of the traditions of other cultures abroad?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;How would you feel in a country where you had to be very conscious of your clothing, gestures, etc. (e.g. in a country where traditional and modest dress was the custom)?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;I understand the importance of being respectful and culturally sensitive regarding my appearance and gestures. I would learn to recognise the cultural cues of my host country as quickly as I can and enjoy adapting to them as necessary.&lt;\/p&gt;\n","&lt;p&gt;I might not feel like myself at first, but I would be aware that showing respect would help me integrate into my host culture.&lt;\/p&gt;\n","&lt;p&gt;I would feel a bit uncomfortable, but I could tolerate it, especially if it was only for a short period.&lt;\/p&gt;\n","&lt;p&gt;I would feel anxious. I would only change the way I dress and behave if forced to do so.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>curiosidad-sobre-temas-internacionales</slug>
+    <timecreated>1685618757</timecreated>
+    <timemodified>1689234436</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

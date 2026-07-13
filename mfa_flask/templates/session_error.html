@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sesi Tidak Valid</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="login-wrapper">
+    <div class="login-card large-card">
+        <img src="{{ url_for('static', filename='image/logo.png') }}" class="logo" />
+        
+        <h2>Sesi Tidak Ditemukan</h2>
+        <p class="subtitle">Maaf, kami tidak dapat memverifikasi sesi MFA Anda saat ini.</p>
+        
+        <div class="details">
+            <strong>Mengapa ini terjadi?</strong>
+            <ul>
+                <li>Anda mengakses halaman ini secara langsung tanpa login.</li>
+                <li>Sesi login Anda sebelumnya telah berakhir (timeout).</li>
+                <li>Browser Anda memblokir cookie yang diperlukan.</li>
+            </ul>
+        </div>
+        <br>
+        <a href="http://192.168.101.8/moodle-2" class="btn">Login Kembali</a>
+    </div>
+</div>
+</body>
+</html>

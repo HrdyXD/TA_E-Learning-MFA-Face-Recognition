@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="67" modulename="label" contextid="105">
+  <label id="14">
+    <name>
+image source: flickr</name>
+    <intro>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/secondlife_unit5.png" alt="unit 5 intro" height="313" width="500" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: xx-small;"&gt;image source: &lt;a target="_blank" title="unit 5 intro" href="http://www.flickr.com/photos/funksoup/5983306413/in/photolist-a7J1xp-a7HZSt-a7J1oB-a7J1ia-a7J12e-a7J1tP-a7LSJu-a7LAmU-a7HJ7F-a7HHwk-a7LB41-a7LB1d-a7HHdD-a7LALE-a7LAuj-a7LAFm-a7HJ1M-a7LBiq-a7LANE-a7HHNa-8pRUd4-8pRU6M-8pV5f7-8pV4P1-8pRUUH-8pRTkF-8pRVs2-8pV3ZL-8pV3JQ-8pRTz8-8pV3SW-8pRUJ8-8pV66U-8pV6bA-8pRUDp-8pRUhx-8pV5nf-8pRV8T-8pV5Eb-8pRV2p-8pRTHR-8pRSNB-8pRTsD-8pV4FS-8pV2tu-8pV3wW-8pRS28-8pRSsn-8pRRqD-8pRRMD-8pRSf2/"&gt;flickr&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1392614661</timemodified>
+  </label>
+</activity>

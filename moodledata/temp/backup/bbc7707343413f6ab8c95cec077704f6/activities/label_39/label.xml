@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="10" moduleid="39" modulename="label" contextid="76">
+  <label id="10">
+    <name>
+image: http://en.wikipedia.org/wiki/File:Graph_m...</name>
+    <intro>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/unit1.png" alt="unit 1 intro" height="297" width="461" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: xx-small;"&gt;image: &lt;a target="_blank" title="unit 1 image link" href="http://en.wikipedia.org/wiki/File:Graph_multi_party_video_conferencing.png"&gt;http://en.wikipedia.org/wiki/File:Graph_multi_party_video_conferencing.png&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1392614091</timemodified>
+  </label>
+</activity>

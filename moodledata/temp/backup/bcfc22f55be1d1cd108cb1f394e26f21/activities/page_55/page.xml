@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="55" modulename="page" contextid="93">
+  <page id="13">
+    <name>Brainstorm for Assignment 2</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;In your teams, brainstorm topics and session outcomes for Assignment 2: Synchronous Lesson Design that takes place in Unit 4. Consider the various tools identified in the Best Practices class document developed in Assignment 1. Identify the audience for your pesentation, and prepare a draft audience analysis document to uplaod to the assignment dropbox at the end of week 4.&lt;/p&gt;
+&lt;p&gt;Consider using a synchronous tool for your brainstorming session, as determined by your team. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1395452268</timemodified>
+  </page>
+</activity>

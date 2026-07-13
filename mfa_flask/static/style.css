@@ -1,0 +1,375 @@
+/* ===== GLOBAL ===== */
+
+:root {
+    --moodle-blue: #1a428a;
+    --border-color: #e9ecef;
+    --success-green: #5cb85c;
+    --fail-red: #d9534f;
+}
+
+body {
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+    margin: 0;
+
+    height: 100vh;
+
+    background-image: url("/static/image/background.jpg");
+
+    background-size: cover;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    color: #333;
+
+}
+
+
+
+/* ===== WRAPPER ===== */
+
+.login-wrapper {
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+
+
+/* ===== LOGIN CARD ===== */
+
+.login-card {
+
+    background: rgba(255, 255, 255, 0.96);
+
+    padding: 30px;
+
+    border-radius: 14px;
+
+    width: 450px;
+
+    max-width: 90%;
+
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+
+    text-align: center;
+
+}
+
+/* ===== LARGE CARD (Untuk Halaman Info/Error) ===== */
+.large-card {
+    width: 600px;
+    padding: 45px;
+}
+
+.large-card .logo {
+    width: 110px;
+    margin-bottom: 15px;
+}
+
+.large-card h2 {
+    font-size: 26px;
+}
+
+.large-card .subtitle {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+
+
+/* ===== LOGO ===== */
+
+.logo {
+
+    width: 85px;
+
+    margin-bottom: 10px;
+
+}
+
+
+
+/* ===== TITLE ===== */
+
+h2 {
+
+    font-size: 22px;
+
+    margin-top: 0;
+
+    margin-bottom: 8px;
+
+    font-weight: 600;
+
+    color: #2c3e50;
+
+}
+
+
+
+/* ===== SUBTITLE ===== */
+
+.subtitle {
+
+    font-size: 14px;
+
+    color: #666;
+
+    margin-bottom: 18px;
+
+}
+
+
+
+/* ===== CAMERA ===== */
+
+#video-container {
+
+    position: relative;
+
+    width: 100%;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+/* Kamera lebih besar */
+
+#video {
+
+    width: 100%;
+
+    aspect-ratio: 16/9;
+
+    object-fit: cover;
+
+    transform: scaleX(-1);
+
+    background: black;
+
+}
+
+
+
+/* Overlay status */
+
+#overlay {
+
+    position: absolute;
+
+    bottom: 15px;
+
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    background: rgba(0, 0, 0, 0.65);
+
+    color: white;
+
+    padding: 10px 18px;
+
+    border-radius: 8px;
+
+    font-size: 14px;
+
+}
+
+
+
+/* ===== DETAILS ===== */
+
+.details {
+
+    background: #f8f9fa;
+
+    padding: 12px;
+
+    border-radius: 8px;
+
+    font-size: 13px;
+
+    color: #555;
+
+    text-align: left;
+
+    border: 1px solid #e9ecef;
+
+    margin-top: 10px;
+
+}
+
+
+
+.details ul {
+
+    margin: 5px 0 0 0;
+
+    padding-left: 20px;
+
+}
+
+
+
+.details li {
+
+    margin-bottom: 4px;
+
+}
+
+
+
+/* ===== STATUS BORDER ===== */
+
+.status-success {
+
+    border: 2px solid #5cb85c;
+
+}
+
+
+
+.status-fail {
+
+    border: 2px solid #d9534f;
+
+}
+
+
+
+.status-matching {
+
+    border: 2px solid #f0ad4e;
+
+}
+
+/* ===== BUTTON ===== */
+.btn {
+    display: inline-block;
+    background-color: #1a428a;
+    color: #ffffff;
+    padding: 10px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #c29100;
+}
+
+.btn:disabled {
+    background-color: #a0c4e1;
+    cursor: not-allowed;
+}
+
+.btn-block {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+}
+
+/* ===== TEXT COLORS ===== */
+.text-success { color: var(--success-green) !important; font-weight: 600; }
+.text-danger { color: var(--fail-red) !important; font-weight: 600; }
+
+/* ===== PROGRESS BAR (REGISTER) ===== */
+.progress-container {
+    width: 100%;
+    background-color: #e9ecef;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.progress-bar {
+    height: 12px;
+    width: 0%;
+    background-color: #1a428a;
+    transition: width 0.1s linear;
+}
+
+/* ===== REGISTER FACE ID (CIRCULAR PROGRESS) ===== */
+.face-id-container {
+    position: relative;
+    width: clamp(250px, 60vw, 320px);
+    height: clamp(250px, 60vw, 320px);
+    margin: 0 auto 1.5rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#video-wrapper {
+    width: 85%;
+    height: 85%;
+    border-radius: 50%;
+    overflow: hidden;
+    background: #000;
+    z-index: 2;
+    position: relative;
+    box-shadow: inset 0 0 15px rgba(0,0,0,0.5);
+}
+
+#video-wrapper video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scaleX(-1);
+}
+
+.progress-ring {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+    z-index: 1;
+}
+
+.progress-ring__circle, .progress-ring__progress {
+    stroke-width: 6;
+    fill: transparent;
+}
+
+.progress-ring__circle {
+    stroke: var(--border-color);
+}
+
+.progress-ring__progress {
+    stroke: var(--moodle-blue);
+    stroke-linecap: round;
+    transition: stroke-dashoffset 0.2s, stroke 0.3s;
+}
+
+#status-text {
+    font-size: clamp(1rem, 2.5vw, 1.1rem);
+    color: #495057;
+    text-align: center;
+    min-height: 1.5em;
+    margin-bottom: 1.5rem;
+}

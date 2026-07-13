@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="16" moduleid="68" modulename="page" contextid="106">
+  <page id="16">
+    <name>Unit 5 Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;In this final unit of the course, you will examine a number of special topics related to synchronous learning, including privacy issues, working in blended learning environments, working with multiple venues, addressing common misconceptions about real-time learning, and implementing collaborative models of facilitation. This week will also provide an opportunity for you to examine student-generated topics, including hands-on exploration of specific technologies and tools suggested by the class.&lt;/p&gt;
+&lt;h4&gt;Key Learning Activities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Mission to Mars -- in your teams, you put together a box of artefacts on how to develop the best possible synchronous learning activity. This box is going to be put on the next mission to Mars. (The Martians are very interested in improving education for the growing demographic of Martianlets.) In your discussion groups, you identify the 10 things you put into this box.  Your team must agree on the items chosen and explain how these items would be used in the planning and facilitating of a synchronous course and indicate why they chose these items. As a plenary, the class reviews the compiled list and makes comments or additions.&lt;/li&gt;
+&lt;li&gt;Assignment 4 is due at the end of Week 10.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Notes on the Readings &amp;amp; Resources&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Read the additional resources section (p 129-142) of the Finkelstein text, including the section on misconceptions about sync instruction and the buyers guide. Smyth’s (2011) article looks at formal and informal or planned and unplanned use of online environments. While reading this article, consider how you used synchronous tools to interact with your team and colleagues in formal and informal settings during the run of the course.&lt;/p&gt;
+&lt;p&gt;Watch this video by Donald Clark at TEDxGlasgow - consider how synchronous online learning fits into the new pedagogies described by Clark. [17:46]&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/dEJ_ATgrnnY?rel=0" allowfullscreen="" frameborder="0" height="360" width="640"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1395452024</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="668" moduleid="7341" modulename="hvp" contextid="25500">
+  <hvp id="668">
+    <name>😣 4. Dealing with frustration</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank" title="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme"&gt;Erasmus+ Program Priorities (inclusion and diversity, Participation in democratic life, common values and civic engagement)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":true,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Check","submitAnswer":"Submit","tryAgain":"Retry","showSolution":"Show solution","up":"Up","down":"Down","disabled":"Disabled"},"a11y":{"check":"Check the answers. The responses will be marked as correct or incorrect.","showSolution":"Show the solution. The correct solution will be displayed.","retry":"Retry the task. Reset all elements and start the task over again.","yourResult":"You got @score out of @total points","listDescription":"Sortable list of paragraphs.","listDescriptionCheckAnswer":"List of paragraphs with results.","listDescriptionShowSolution":"List of paragraphs with solutions.","paragraph":"Paragraph","correct":"correct","wrong":"wrong","point":"@score point","sevenOfNine":"@current of @total","currentPosition":"Current position in list","instructionsSelected":"Press spacebar to reorder","instructionsGrabbed":"Press up and down arrow keys to change position, spacebar to drop, escape to cancel","grabbed":"Grabbed","moved":"Moved","dropped":"Dropped","reorderCancelled":"Reorder cancelled","finalPosition":"Final position","nextParagraph":"Next paragraph","correctParagraph":"Correct paragraph at position"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Are you resourceful in frustrating circumstances?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Imagine you have twice submitted documents requesting an extension of your visa while doing an internship abroad; now the government says that you must come back with another document. What do you do?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;I would ask the officer to write down what I needed and ask if I can return my documentation directly. A personal touch can make the process go smoothly!&lt;\/p&gt;\n","&lt;p&gt;My body language may show my disappointment, but I would comply with the request.&lt;\/p&gt;\n","&lt;p&gt;I would like to comment on how inefficient the place was and ask to speak to a supervisor.&lt;\/p&gt;\n","&lt;p&gt;I'd like to leave the office. My time is too valuable to waste on bureaucratic procedures. I forget to get the visa extension and prepare to take my chances without it.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>curiosidad-sobre-temas-internacionales</slug>
+    <timecreated>1685618757</timecreated>
+    <timemodified>1689234385</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

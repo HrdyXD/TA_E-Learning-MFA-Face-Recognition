@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="678" moduleid="7356" modulename="hvp" contextid="25518">
+  <hvp id="678">
+    <name>🤹‍♀️ 6. Drawing attention to yourself as a foreigner</name>
+    <machine_name>H5P.SortParagraphs</machine_name>
+    <major_version>0</major_version>
+    <minor_version>11</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank" title="https://erasmus-plus.ec.europa.eu/programme-guide/part-a/priorities-of-the-erasmus-programme"&gt;Erasmus+ Program Priorities (inclusion and diversity, Participation in democratic life, common values and civic engagement)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"media":{"disableImageZooming":false,"type":{"params":{}}},"overallFeedback":[{"from":0,"to":100}],"behaviour":{"scoringMode":"positions","applyPenalties":true,"duplicatesInterchangeable":true,"addButtonsForMovement":true,"enableRetry":true,"enableSolutionsButton":true},"l10n":{"checkAnswer":"Check","submitAnswer":"Submit","tryAgain":"Retry","showSolution":"Show solution","up":"Up","down":"Down","disabled":"Disabled"},"a11y":{"check":"Check the answers. The responses will be marked as correct or incorrect.","showSolution":"Show the solution. The correct solution will be displayed.","retry":"Retry the task. Reset all elements and start the task over again.","yourResult":"You got @score out of @total points","listDescription":"Sortable list of paragraphs.","listDescriptionCheckAnswer":"List of paragraphs with results.","listDescriptionShowSolution":"List of paragraphs with solutions.","paragraph":"Paragraph","correct":"correct","wrong":"wrong","point":"@score point","sevenOfNine":"@current of @total","currentPosition":"Current position in list","instructionsSelected":"Press spacebar to reorder","instructionsGrabbed":"Press up and down arrow keys to change position, spacebar to drop, escape to cancel","grabbed":"Grabbed","moved":"Moved","dropped":"Dropped","reorderCancelled":"Reorder cancelled","finalPosition":"Final position","nextParagraph":"Next paragraph","correctParagraph":"Correct paragraph at position"},"taskDescription":"&lt;p&gt;Rank the answers from highest to lowest sample of intercultural skills or knowledge.&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Do you consider yourself self-conscious?&lt;\/strong&gt;&lt;\/p&gt;\n\n&lt;p&gt;&lt;strong&gt;If you travelled to a foreign country where you had the impression that everyone was staring at you, what would you do?&lt;\/strong&gt;&lt;\/p&gt;\n","paragraphs":["&lt;p&gt;I would ask a local person to help me behave appropriately, and I should accept that I might get attention simply because I am a foreigner.&lt;\/p&gt;\n","&lt;p&gt;I would look to see what other people were doing and try to see if I was somehow attracting attention.&lt;\/p&gt;\n","&lt;p&gt;I would leave the area pretty quickly. I don't like being stared at.&lt;\/p&gt;\n","&lt;p&gt;I would get angry and make it clear that I didn't want to be stared at. Tourists should be allowed to go where they want without people feeling uncomfortable.&lt;\/p&gt;\n"]}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>curiosidad-sobre-temas-internacionales</slug>
+    <timecreated>1685618757</timecreated>
+    <timemodified>1689234473</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

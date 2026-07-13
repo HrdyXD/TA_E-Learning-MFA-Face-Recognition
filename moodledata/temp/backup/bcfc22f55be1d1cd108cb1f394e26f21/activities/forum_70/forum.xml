@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="21" moduleid="70" modulename="forum" contextid="108">
+  <forum id="21">
+    <type>general</type>
+    <name>Forum: Mission to Mars (team)</name>
+    <intro>&lt;h3&gt;Forum: Mission to Mars (team)&lt;/h3&gt;
+&lt;p&gt;In your teams, you put together a box of artefacts on how to develop the best possible synchronous learning activity. This box is going to be put on the next mission to Mars. (The Martians are very interested in improving education for the growing demographic of Martianlets.)&lt;/p&gt;
+&lt;p&gt;In your discussion groups, you identify the 10 things you put into this box.  Your team must agree on the items chosen and explain how these items would be used in the planning and facilitating of a synchronous course and indicate why they chose these items.&lt;/p&gt;
+&lt;p&gt;As a plenary, the class reviews the compiled list and makes comments or additions.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>1</scale>
+    <maxbytes>20971520</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1389420521</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

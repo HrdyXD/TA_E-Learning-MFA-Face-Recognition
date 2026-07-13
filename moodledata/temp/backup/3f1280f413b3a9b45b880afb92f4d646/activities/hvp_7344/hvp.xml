@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="670" moduleid="7344" modulename="hvp" contextid="25503">
+  <hvp id="670">
+    <name>🐱‍💻 The challenges of digitalisation</name>
+    <machine_name>H5P.InteractiveVideo</machine_name>
+    <major_version>1</major_version>
+    <minor_version>24</minor_version>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Develop your digital competences (knowledge, skills and attitudes) to live, work, learn and thrive in a world increasingly mediated by digital technologies.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;a href="https://education.ec.europa.eu/focus-topics/digital-education/action-plan" target="_blank"&gt;https://education.ec.europa.eu/focus-topics/digital-education/action-plan&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"interactiveVideo":{"video":{"startScreenOptions":{"title":"Digitalizaci\u00f3n","hideStartTitle":true},"textTracks":{"videoTrack":[{"label":"Subtitles","kind":"subtitles","srcLang":"en"}]},"files":[{"path":"https:\/\/youtu.be\/Y2520YcYo4g","mime":"video\/YouTube","copyright":{"license":"U"}}]},"assets":{"interactions":[],"bookmarks":[],"endscreens":[{"time":132,"label":"2:12 Submit screen"}]},"summary":{"task":{"library":"H5P.Summary 1.10","params":{"intro":"Choose the correct statement.","summaries":[{"subContentId":"78d6d39a-adb1-498a-af48-43e8f7ab79c1","tip":""}],"overallFeedback":[{"from":0,"to":100}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"cd4722b5-7037-4ad2-9b7f-659715a1cab3","metadata":{"contentType":"Summary","license":"U","title":"Untitled Summary","authors":[],"changes":[],"extraTitle":"Untitled Summary"}},"displayAt":3}},"override":{"autoplay":true,"loop":false,"showBookmarksmenuOnLoad":false,"showRewind10":false,"preventSkipping":false,"deactivateSound":false},"l10n":{"interaction":"Interaction","play":"Play","pause":"Pause","mute":"Mute, currently unmuted","unmute":"Unmute, currently muted","quality":"Video Quality","captions":"Captions","close":"Close","fullscreen":"Fullscreen","exitFullscreen":"Exit Fullscreen","summary":"Open summary dialog","bookmarks":"Bookmarks","endscreen":"Submit screen","defaultAdaptivitySeekLabel":"Continue","continueWithVideo":"Continue with video","more":"More player options","playbackRate":"Playback Rate","rewind10":"Rewind 10 Seconds","navDisabled":"Navigation is disabled","sndDisabled":"Sound is disabled","requiresCompletionWarning":"You need to answer all the questions correctly before continuing.","back":"Back","hours":"Hours","minutes":"Minutes","seconds":"Seconds","currentTime":"Current time:","totalTime":"Total time:","singleInteractionAnnouncement":"Interaction appeared:","multipleInteractionsAnnouncement":"Multiple interactions appeared.","videoPausedAnnouncement":"Video is paused","content":"Content","answered":"@answered answered","endcardTitle":"@answered Question(s) answered","endcardInformation":"You have answered @answered questions, click below to submit your answers.","endcardInformationOnSubmitButtonDisabled":"You have answered @answered questions.","endcardInformationNoAnswers":"You have not answered any questions.","endcardInformationMustHaveAnswer":"You have to answer at least one question before you can submit your answers.","endcardSubmitButton":"Submit Answers","endcardSubmitMessage":"Your answers have been submitted!","endcardTableRowAnswered":"Answered questions","endcardTableRowScore":"Score","endcardAnsweredScore":"answered","endCardTableRowSummaryWithScore":"You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.","endCardTableRowSummaryWithoutScore":"You have answered the @question that appeared after @minutes minutes and @seconds seconds."}}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>digitalizacion</slug>
+    <timecreated>1686819655</timecreated>
+    <timemodified>1689234544</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1137">
+  <number>1</number>
+  <name>Dealing with paperwork</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>7333,7334,5780,7337,7032,7338,7033,7339,7047,7340,7058,7341,7059,7342,7355,7356,7060,7343,7108,7344</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <timemodified>1689232182</timemodified>
+  <tile id="1137">
+  </tile>
+  <course_format_options id="3612">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>jigsaw</value>
+  </course_format_options>
+  <course_format_options id="3613">
+    <format>tiles</format>
+    <name>tilephoto</name>
+    <value>Estud02.jpg</value>
+  </course_format_options>
+</section>

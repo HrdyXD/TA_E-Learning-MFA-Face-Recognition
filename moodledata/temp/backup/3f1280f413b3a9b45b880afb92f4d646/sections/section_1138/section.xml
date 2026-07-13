@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1138">
+  <number>2</number>
+  <name>Learning from the first day</name>
+  <summary>&lt;p&gt;&lt;span style="font-size: 1rem;" class=""&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>7345,7346,5781,7347,7293,7350,7302,7348,7303,7349</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <timemodified>1689227302</timemodified>
+  <tile id="1138">
+  </tile>
+  <course_format_options id="3614">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>file-text-o</value>
+  </course_format_options>
+  <course_format_options id="3615">
+    <format>tiles</format>
+    <name>tilephoto</name>
+    <value>primerDia01.jpg</value>
+  </course_format_options>
+</section>

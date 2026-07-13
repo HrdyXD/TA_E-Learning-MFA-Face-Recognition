@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="13" moduleid="58" modulename="label" contextid="96">
+  <label id="13">
+    <name>
+images clockwise from top left: image 1; image 2...</name>
+    <intro>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/unit4_shadow_transparent.png" alt="unit 4" height="323" width="520" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="font-size: xx-small;"&gt;images clockwise from top left: &lt;a target="_blank" title="image link" href="http://www.adobe.com/ca/products/adobeconnect/features.html"&gt;image 1&lt;/a&gt;; &lt;a target="_blank" title="image 2" href="http://www.flickr.com/photos/davidroethler/3589066481/"&gt;image 2;&lt;/a&gt; &lt;a target="_blank" title="image 3" href="http://www.flickr.com/photos/funksoup/5983305221/"&gt;image 3&lt;/a&gt;; &lt;a target="_blank" title="image 3" href="http://www.flickr.com/photos/stevegarfield/4627031259/"&gt;image 4&lt;/a&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;&lt;span style="font-size: xx-small;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1392611080</timemodified>
+  </label>
+</activity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="1136">
+  <number>3</number>
+  <name>Una experiencia transformadora</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>7335,7336,5782,7351,7352,7040,7043,7353</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <timemodified>1689227457</timemodified>
+  <tile id="1136">
+  </tile>
+  <course_format_options id="3610">
+    <format>tiles</format>
+    <name>tileicon</name>
+    <value>tasks</value>
+  </course_format_options>
+  <course_format_options id="3611">
+    <format>tiles</format>
+    <name>tilephoto</name>
+    <value>expTransformadora.jpg</value>
+  </course_format_options>
+</section>

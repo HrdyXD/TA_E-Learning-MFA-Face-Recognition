@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="32" modulename="label" contextid="69">
+  <label id="9">
+    <name>Label</name>
+    <intro>&lt;p&gt;&lt;img alt="title image" src="@@PLUGINFILE@@/3shot_inset_cropped_text.png" height="275" width="500" /&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1413831412</timemodified>
+  </label>
+</activity>

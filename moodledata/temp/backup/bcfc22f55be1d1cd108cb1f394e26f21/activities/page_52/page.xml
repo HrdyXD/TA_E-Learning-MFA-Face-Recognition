@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="52" modulename="page" contextid="90">
+  <page id="11">
+    <name>Unit 3 Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Unit 3 focuses on preparing and planning for delivering a synchronous activity or course. You are introduced to specific concepts related to event planning for real-time learning, including the process of creating storyboards, planning visuals and learning activities to maximize student engagement, and managing logistical issues. As well, you will examine the characteristics of different types of media that are useful to consider in the design and delivery of synchronous learning activities. You will also become familiar with the process of conducting a systematic audience analysis to ensure that the students’ primary needs are addressed. Finally, this unit addresses how to prepare students for synchronous learning so that they can get the most of the specific medium used and how to select/organize learning activities that promote presence and active participation.&lt;/p&gt;
+&lt;h4&gt;Key Learning Activities&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Team Project&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For assignment 2, brainstorm assignment topics and session outcomes in presentation team groups.&lt;/li&gt;
+&lt;li&gt;Submit draft of audience analysis to plenary discussion group forum at end of Week 4.&lt;/li&gt;
+&lt;li&gt;Engage in plenary discussion about themes, issues and questions related to audience analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Notes on the Readings &amp;amp; Resources&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The readings in this unit were chosen to help you prepare and plan for Assignment 2: Synchronous Lesson Design. For design considerations, read the Entin et al. (2009) article and ch 3 &amp;amp; ch 4 pages 46-48 of the eLearning Guild’s handbook. Knowing your audience and developing learning objectives are essential steps in the design and planning process. An understanding of media characteristics should also be used to guide the design of your session. For this we turn to Fahy’s media characteristics and online technology chapter.&lt;/p&gt;
+&lt;p&gt;For more practical guidance on planning activities for your session read ch 4 of the eLearning Guild’s handbook, including the section on storyboarding.  Readings in chapters 5 &amp;amp; 6 of the Finkelstein text provide additional guidance on choosing activities for synchronous sessions.&lt;/p&gt;
+&lt;p&gt;You and your team will facilitate your session in Unit 4, but prior to the actual live presentation there is plenty of preparation still to do. Chapter 5 - Setting up for Production - in the eLearning Guild’s handbook provides practical advice, including tips for preparing the presenters and the audience.&lt;/p&gt;
+&lt;p&gt;Watch these 2 videos from the U of Saskatchewan for a faculty perspective on online synchronous sessions.&lt;/p&gt;
+&lt;h5&gt;Guest Lecturers in Online Courses - watch to the the 3 min mark. [5:14]&lt;/h5&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/1gWPnrj1YpQ?rel=0" allowfullscreen="" frameborder="0" height="360" width="640"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h5&gt;Using Collaborate or other Synchronous Tools [4:49]&lt;/h5&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/fR5svdb0_2Y?rel=0" allowfullscreen="" frameborder="0" height="360" width="640"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>13</revision>
+    <timemodified>1395451899</timemodified>
+  </page>
+</activity>

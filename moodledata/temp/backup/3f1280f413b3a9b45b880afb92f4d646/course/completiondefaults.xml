@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course_completion_defaults>
+  <course_completion_default id="1864">
+    <modulename>assign</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1865">
+    <modulename>book</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1866">
+    <modulename>chat</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1867">
+    <modulename>choice</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1868">
+    <modulename>customcert</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1869">
+    <modulename>data</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1870">
+    <modulename>feedback</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1871">
+    <modulename>folder</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1872">
+    <modulename>forum</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1873">
+    <modulename>glossary</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1874">
+    <modulename>hvp</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1875">
+    <modulename>imscp</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1876">
+    <modulename>label</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1877">
+    <modulename>lesson</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1878">
+    <modulename>lti</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1879">
+    <modulename>page</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1880">
+    <modulename>quiz</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1881">
+    <modulename>resource</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1882">
+    <modulename>scorm</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1883">
+    <modulename>survey</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1884">
+    <modulename>url</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1885">
+    <modulename>wiki</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+  <course_completion_default id="1886">
+    <modulename>workshop</modulename>
+    <completion>0</completion>
+    <completionview>0</completionview>
+    <completionusegrade>0</completionusegrade>
+    <completionpassgrade>0</completionpassgrade>
+    <completionexpected>0</completionexpected>
+    <customrules>$@NULL@$</customrules>
+  </course_completion_default>
+</course_completion_defaults>

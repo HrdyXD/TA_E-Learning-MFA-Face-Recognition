@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moodle - Session Expired</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="login-wrapper">
+    <div class="login-card large-card">
+        <img src="{{ url_for('static', filename='image/logo.png') }}" class="logo" />
+        
+        <h2>Waktu Habis / Wajah Tidak Ditemukan</h2>
+        <p class="subtitle">Sesi telah berakhir karena batas waktu habis (timeout) atau sistem gagal menemukan wajah secara terus-menerus. Silakan coba lagi.</p>
+        
+        <div class="details">
+            <strong>Saran Perbaikan:</strong>
+            <ul>
+                <li>Pastikan wajah Anda terlihat jelas dan masuk di dalam frame kamera.</li>
+                <li>Hindari pencahayaan yang terlalu gelap atau terlalu silau.</li>
+                <li>Lepaskan masker atau aksesoris yang menutupi wajah.</li>
+            </ul>
+        </div>
+        <br>
+        <a href="http://192.168.101.8/moodle-2/login/index.php" class="btn">Kembali ke Moodle</a>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="664" moduleid="7337" modulename="hvp" contextid="25496">
+  <hvp id="664">
+    <name>🔥🎬 Dealing with paperwork</name>
+    <machine_name>H5P.InteractiveVideo</machine_name>
+    <major_version>1</major_version>
+    <minor_version>24</minor_version>
+    <intro>&lt;div&gt;Erasmus+ Program Priorities (inclusion and diversity)&lt;/div&gt;&lt;div&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/es/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank"&gt;Erasmus+ Program Priorities (digital transformation)&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Activate English subtitles from CC button&lt;br&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"interactiveVideo":{"video":{"startScreenOptions":{"title":"Interactive Video","hideStartTitle":false},"textTracks":{"videoTrack":[{"label":"Subtitles","kind":"subtitles","srcLang":"en"}]},"files":[{"path":"https:\/\/youtu.be\/V19ltWE6o6k","mime":"video\/YouTube","copyright":{"license":"CC BY-NC-ND","title":"Enfrentarte al papeleo","author":"ORI UC","year":"2022","source":"https:\/\/eunice-university.eu\/peer-ir-view-iro-video-pills-handbook\/","version":"4.0"}}]},"assets":{"interactions":[],"bookmarks":[{"time":0,"label":"What will the exchange experience give you?"},{"time":6.9781245269972869,"label":"Share something practical about the initial formalities"},{"time":35.909160079999594,"label":"Use erasmusapp.eu as a common guidance space"},{"time":87.409333788002598,"label":"Following the paperwork process step by step"}],"endscreens":[{"time":150,"label":"2:30 Submit screen"}]},"summary":{"task":{"library":"H5P.Summary 1.10","params":{"intro":"Choose the correct statement.","summaries":[{"subContentId":"d4b34e5b-af1e-44bf-8c82-8ec77cd27508","tip":""}],"overallFeedback":[{"from":0,"to":100}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"2d0a0e3a-e093-4ee7-9458-ff448c363281","metadata":{"contentType":"Summary","license":"U","title":"Untitled Summary","authors":[],"changes":[],"extraTitle":"Untitled Summary"}},"displayAt":3}},"override":{"autoplay":true,"loop":false,"showBookmarksmenuOnLoad":true,"showRewind10":true,"preventSkipping":false,"deactivateSound":false},"l10n":{"interaction":"Interaction","play":"Play","pause":"Pause","mute":"Mute, currently unmuted","unmute":"Unmute, currently muted","quality":"Video Quality","captions":"Captions","close":"Close","fullscreen":"Fullscreen","exitFullscreen":"Exit Fullscreen","summary":"Open summary dialog","bookmarks":"Bookmarks","endscreen":"Submit screen","defaultAdaptivitySeekLabel":"Continue","continueWithVideo":"Continue with video","more":"More player options","playbackRate":"Playback Rate","rewind10":"Rewind 10 Seconds","navDisabled":"Navigation is disabled","sndDisabled":"Sound is disabled","requiresCompletionWarning":"You need to answer all the questions correctly before continuing.","back":"Back","hours":"Hours","minutes":"Minutes","seconds":"Seconds","currentTime":"Current time:","totalTime":"Total time:","singleInteractionAnnouncement":"Interaction appeared:","multipleInteractionsAnnouncement":"Multiple interactions appeared.","videoPausedAnnouncement":"Video is paused","content":"Content","answered":"@answered answered","endcardTitle":"@answered Question(s) answered","endcardInformation":"You have answered @answered questions, click below to submit your answers.","endcardInformationOnSubmitButtonDisabled":"You have answered @answered questions.","endcardInformationNoAnswers":"You have not answered any questions.","endcardInformationMustHaveAnswer":"You have to answer at least one question before you can submit your answers.","endcardSubmitButton":"Submit Answers","endcardSubmitMessage":"Your answers have been submitted!","endcardTableRowAnswered":"Answered questions","endcardTableRowScore":"Score","endcardAnsweredScore":"answered","endCardTableRowSummaryWithScore":"You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.","endCardTableRowSummaryWithoutScore":"You have answered the @question that appeared after @minutes minutes and @seconds seconds."}}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>enfrentarte-al-papeleo</slug>
+    <timecreated>1681334147</timecreated>
+    <timemodified>1689236183</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

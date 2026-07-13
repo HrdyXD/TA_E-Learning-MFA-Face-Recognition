@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="671" moduleid="7347" modulename="hvp" contextid="25506">
+  <hvp id="671">
+    <name>🔥🎬 Learning from the first day</name>
+    <machine_name>H5P.InteractiveVideo</machine_name>
+    <major_version>1</major_version>
+    <minor_version>24</minor_version>
+    <intro>&lt;div&gt;&lt;a href="https://erasmus-plus.ec.europa.eu/es/programme-guide/part-a/priorities-of-the-erasmus-programme" target="_blank"&gt;Erasmus+ Program Priorities&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;Activate English subtitles from CC button&lt;br&gt;&lt;/div&gt;</intro>
+    <introformat>1</introformat>
+    <json_content>{"interactiveVideo":{"video":{"startScreenOptions":{"title":"Interactive Video","hideStartTitle":true},"textTracks":{"videoTrack":[{"label":"Subtitles","kind":"subtitles","srcLang":"en"}]},"files":[{"path":"https:\/\/youtu.be\/7iv8kV5Z3Fs","mime":"video\/YouTube","copyright":{"license":"CC BY-NC-ND","title":"Aprender desde el primer d\u00eda","author":"ORI UC","year":"2022","source":"https:\/\/eunice-university.eu\/peer-ir-view-iro-video-pills-handbook\/","version":"4.0"}}]},"assets":{"interactions":[],"bookmarks":[{"time":7.0916243039996107,"label":"\u00bfCrees que te desenvolver\u00e1s bien?"},{"time":33.630266287999071,"label":"Manejarte en una segunda lengua"},{"time":72.890503918001755,"label":"La inmersi\u00f3n ling\u00fc\u00edstica del intercambio"},{"time":92.579868638003887,"label":"Perder el miedo a expresarte en otro idioma"},{"time":114.37748047900187,"label":"Seguir las clases en otro idioma"}],"endscreens":[{"time":164,"label":"2:44 Submit screen"}]},"summary":{"task":{"library":"H5P.Summary 1.10","params":{"intro":"Choose the correct statement.","summaries":[{"subContentId":"bfafc1e7-d6d0-418b-bcf3-2f99929a2e4b","tip":""}],"overallFeedback":[{"from":0,"to":100}],"solvedLabel":"Progress:","scoreLabel":"Wrong answers:","resultLabel":"Your result","labelCorrect":"Correct.","labelIncorrect":"Incorrect! Please try again.","alternativeIncorrectLabel":"Incorrect","labelCorrectAnswers":"Correct answers.","tipButtonLabel":"Show tip","scoreBarLabel":"You got :num out of :total points","progressText":"Progress :num of :total"},"subContentId":"f630955c-8352-4a99-afdb-4944bdf1fcb5","metadata":{"contentType":"Summary","license":"U","title":"Untitled Summary","authors":[],"changes":[],"extraTitle":"Untitled Summary"}},"displayAt":3}},"override":{"autoplay":true,"loop":false,"showBookmarksmenuOnLoad":true,"showRewind10":true,"preventSkipping":false,"deactivateSound":false},"l10n":{"interaction":"Interaction","play":"Play","pause":"Pause","mute":"Mute, currently unmuted","unmute":"Unmute, currently muted","quality":"Video Quality","captions":"Captions","close":"Close","fullscreen":"Fullscreen","exitFullscreen":"Exit Fullscreen","summary":"Open summary dialog","bookmarks":"Bookmarks","endscreen":"Submit screen","defaultAdaptivitySeekLabel":"Continue","continueWithVideo":"Continue with video","more":"More player options","playbackRate":"Playback Rate","rewind10":"Rewind 10 Seconds","navDisabled":"Navigation is disabled","sndDisabled":"Sound is disabled","requiresCompletionWarning":"You need to answer all the questions correctly before continuing.","back":"Back","hours":"Hours","minutes":"Minutes","seconds":"Seconds","currentTime":"Current time:","totalTime":"Total time:","singleInteractionAnnouncement":"Interaction appeared:","multipleInteractionsAnnouncement":"Multiple interactions appeared.","videoPausedAnnouncement":"Video is paused","content":"Content","answered":"@answered answered","endcardTitle":"@answered Question(s) answered","endcardInformation":"You have answered @answered questions, click below to submit your answers.","endcardInformationOnSubmitButtonDisabled":"You have answered @answered questions.","endcardInformationNoAnswers":"You have not answered any questions.","endcardInformationMustHaveAnswer":"You have to answer at least one question before you can submit your answers.","endcardSubmitButton":"Submit Answers","endcardSubmitMessage":"Your answers have been submitted!","endcardTableRowAnswered":"Answered questions","endcardTableRowScore":"Score","endcardAnsweredScore":"answered","endCardTableRowSummaryWithScore":"You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.","endCardTableRowSummaryWithoutScore":"You have answered the @question that appeared after @minutes minutes and @seconds seconds."}}</json_content>
+    <embed_type>div</embed_type>
+    <disable>6</disable>
+    <content_type>$@NULL@$</content_type>
+    <source>$@NULL@$</source>
+    <year_from>$@NULL@$</year_from>
+    <year_to>$@NULL@$</year_to>
+    <license_version>$@NULL@$</license_version>
+    <changes>[]</changes>
+    <license_extras>$@NULL@$</license_extras>
+    <author_comments>$@NULL@$</author_comments>
+    <slug>aprender-desde-el-primer-dia</slug>
+    <timecreated>1681334910</timecreated>
+    <timemodified>1689236241</timemodified>
+    <authors>[]</authors>
+    <license>U</license>
+    <completionpass>0</completionpass>
+    <content_user_data>
+    </content_user_data>
+  </hvp>
+</activity>

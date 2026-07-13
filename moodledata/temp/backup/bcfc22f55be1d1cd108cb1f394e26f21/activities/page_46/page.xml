@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="46" modulename="page" contextid="83">
+  <page id="8">
+    <name>Unit 2 Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;In Unit 2, you will look more closely at the variety of tools available to support real-time learning as well as the variety of ways in which these tools can be grouped and categorized. You will also explore a variety of the most common learning venues for synchronous learning. You will consider the selection and use of tools and venues in conjunction with the specific learning outcomes and objectives desired. You will also collaboratively design a rubric to be used to assess Assignment 2.&lt;/p&gt;
+&lt;h4&gt;Key Learning Activities&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Team Project&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You will brainstorm topics for Assignment 2 presentations with an emphasis on the selection of appropriate tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Rubric Development&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The whole class reviews criteria for Assignment 2 presentations and shares key points about rubric design.&lt;/li&gt;
+&lt;li&gt;Each team is given one criterion to flesh out using synchronized break-out spaces.&lt;/li&gt;
+&lt;li&gt;The sections are compiled and combined by instructor.&lt;/li&gt;
+&lt;li&gt;The whole class reviews the compiled document in synchronous plenary space and adds comments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Assignment 1 is due at the end of Week 3. You will place your description of a teaching tool in a wiki that will be created for this purpose. This wiki will be used as a resource for Assignment 2.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Notes on the Readings &amp;amp; Resources&lt;br /&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Start by reading Ch 3 &amp;amp; 4 of the Finkelstein text: Tools for Learning in Real Time &amp;amp; Real Time Learning Venues. These two chapters will provide an overview of synchronous tools and environments. The Hrastinski et al. (2010) article provides a set of four exemplars for e-learning - to be considered when designing synchronous activities. The section on Synchronous e-Learning application features (p 17-24) in the eLearning guild's handbook provides a more detailed look at the more common features of synchronous tools. Reference these readings when working on Assignment 1.&lt;/p&gt;
+&lt;p&gt;Review the rubric resources prior to the &lt;a title="Page" href="$@PAGEVIEWBYID*48@$"&gt;Sync Session: Develop Rubric (class) &lt;/a&gt;activity.&lt;/p&gt;
+&lt;p&gt;Finally, here is a short video covering best practices for using common synchronous platform tools, such as: whiteboard, text chat, breakout rooms, polling, audio discussion, etc. [10:01]&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/VxY22IhbaH4?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>10</revision>
+    <timemodified>1395451841</timemodified>
+  </page>
+</activity>

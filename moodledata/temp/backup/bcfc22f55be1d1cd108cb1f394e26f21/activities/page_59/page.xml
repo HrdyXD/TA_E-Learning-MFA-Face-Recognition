@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="14" moduleid="59" modulename="page" contextid="97">
+  <page id="14">
+    <name>Unit 4 Introduction</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Unit 4 focuses on the process of actively facilitating real-time learning sessions. You will explore the key skills addressed in this unit: how to be an effective host in a synchronous learning environment who puts people at ease, facilitates connections among participants, makes everyone feel included, monitors the energy and provides an effective conclusion. You will also examine the various roles that good hosts play in facilitating synchronous sessions as well as specific facilitation strategies that can used. Particular attention will be paid to examining strategies that support effective community-building, engagement, collaboration, risk-taking and feedback.&lt;/p&gt;
+&lt;h4&gt;Key Learning Activities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Teams use synchronous space to plan, practise and rehearse presentations&lt;/li&gt;
+&lt;li&gt;Optional meetings held with instructors if needed to seek advice on presentations&lt;/li&gt;
+&lt;li&gt;You develop a metaphor for a “good host” by supplying one image and some notes about why you selected the image. You submit these to a drop-box. The instructor compiles these into a slide show and posts to a plenary discussion group. You discuss the predominant themes in the plenary group.&lt;/li&gt;
+&lt;li&gt;You watch a sample synchronous session and critique the session using a series of stimulus questions provided by the instructor. Critiques are posted to a plenary discussion group for theming by the entire class.&lt;/li&gt;
+&lt;li&gt;Assignment 2 presentations occur in Weeks 8 and 9.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Notes on the Readings &amp;amp; Resources&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In preparation for your session, read Finkelstein p 65-93 about being a good host and ch 6 &amp;amp; 7 of the eLearning Guild’s handbook and watch the two faculty interviews embedded below. For insight into the student perspective on synchronous interaction read Stewart et. al (2011) ethnographic study. Finally, you are asked to critique an online session in week 7. If you are not able to find a session, you can watch the third video embedded below - an exploration of synchronous tools.&lt;/p&gt;
+&lt;h4&gt;Faculty Insight&lt;/h4&gt;
+&lt;p&gt;Dr. George Veletsianos describes how he uses synchronous tools to meet with students during the first week of his online course. [3:39]&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/JX6eB8bGMqU?rel=0" allowfullscreen="" frameborder="0" height="315" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h4&gt;Faculty Insight&lt;/h4&gt;
+&lt;p&gt;Dr. Eva Malisius describes a synchronous activity she uses in her online courses. [3:50]&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/m6G5b5lggjA?rel=0" allowfullscreen="" frameborder="0" height="315" width="560"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h4&gt;Critique this online session [1:08:02]&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="http://www.youtube.com/embed/QVvdN8o_I5A?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>14</revision>
+    <timemodified>1395451984</timemodified>
+  </page>
+</activity>

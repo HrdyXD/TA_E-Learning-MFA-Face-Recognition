@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="7" moduleid="42" modulename="page" contextid="79">
+  <page id="7">
+    <name>Sync Session: Introductions</name>
+    <intro>&lt;p&gt;Sync Session: Two Truths and a Lie (Introduction)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Using a shared collaborative document (ex: GDoc, &lt;a href="http://etherpad.org/" target="_blank"&gt;Etherpad&lt;/a&gt;, etc), please&lt;span&gt; list three interesting things about yourself. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;&lt;strong&gt;Ex:&lt;/strong&gt; I own two iguanas; I once shook hands with Tom Cruise; and I love to waterski.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;Two entries must be lies and one must be true.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 1.231;"&gt;After you have finished writing your lists, an online poll will be taken for each list to gauge participant's opinions on which items in the lists are truths.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Authors of the each list will reveal which entry is true and which 2 are lies after each poll.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1395452199</timemodified>
+  </page>
+</activity>
